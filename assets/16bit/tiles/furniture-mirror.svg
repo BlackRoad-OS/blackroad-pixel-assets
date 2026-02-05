@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 18" width="12" height="18" shape-rendering="crispEdges">
+  <!-- Wall Mirror -->
+
+  <!-- Ornate frame -->
+  <rect x="0" y="0" width="12" height="18" fill="#F5A623"/>
+
+  <!-- Frame detail -->
+  <rect x="1" y="1" width="10" height="16" fill="#C68A00"/>
+  <rect x="0" y="0" width="1" height="1" fill="#FFEB3B"/>
+  <rect x="11" y="0" width="1" height="1" fill="#FFEB3B"/>
+  <rect x="0" y="17" width="1" height="1" fill="#FFEB3B"/>
+  <rect x="11" y="17" width="1" height="1" fill="#FFEB3B"/>
+
+  <!-- Mirror surface -->
+  <rect x="2" y="2" width="8" height="14" fill="#B3E5FC"/>
+  <rect x="3" y="3" width="6" height="12" fill="#E1F5FE"/>
+
+  <!-- Reflection/shine -->
+  <rect x="3" y="3" width="2" height="6" fill="#FFFFFF"/>
+  <rect x="4" y="4" width="1" height="4" fill="#B3E5FC"/>
+  <rect x="7" y="10" width="1" height="3" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 16" width="12" height="16" shape-rendering="crispEdges">
+  <!-- Toilet -->
+
+  <!-- Tank -->
+  <rect x="2" y="0" width="8" height="6" fill="#ECEFF1"/>
+  <rect x="3" y="1" width="6" height="4" fill="#FFFFFF"/>
+
+  <!-- Flush button -->
+  <rect x="5" y="1" width="2" height="1" fill="#90A4AE"/>
+
+  <!-- Lid (closed) -->
+  <rect x="1" y="6" width="10" height="2" fill="#ECEFF1"/>
+  <rect x="2" y="6" width="8" height="1" fill="#FFFFFF"/>
+
+  <!-- Bowl -->
+  <rect x="0" y="8" width="12" height="6" fill="#ECEFF1"/>
+  <rect x="1" y="9" width="10" height="4" fill="#FFFFFF"/>
+  <rect x="2" y="10" width="8" height="2" fill="#E3F2FD"/>
+
+  <!-- Base -->
+  <rect x="2" y="14" width="8" height="2" fill="#CFD8DC"/>
+  <rect x="3" y="14" width="6" height="1" fill="#ECEFF1"/>
+
+  <!-- Seat hinge -->
+  <rect x="3" y="6" width="1" height="1" fill="#78909C"/>
+  <rect x="8" y="6" width="1" height="1" fill="#78909C"/>
+</svg>

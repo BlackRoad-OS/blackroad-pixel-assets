@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 20" width="16" height="20" shape-rendering="crispEdges">
+  <!-- Stove/Oven -->
+
+  <!-- Main body -->
+  <rect x="0" y="0" width="16" height="20" fill="#37474F"/>
+
+  <!-- Stovetop surface -->
+  <rect x="0" y="0" width="16" height="6" fill="#263238"/>
+
+  <!-- Burners -->
+  <rect x="1" y="1" width="4" height="4" fill="#212121"/>
+  <rect x="2" y="2" width="2" height="2" fill="#424242"/>
+  <rect x="8" y="1" width="4" height="4" fill="#212121"/>
+  <rect x="9" y="2" width="2" height="2" fill="#424242"/>
+
+  <!-- Small front burners -->
+  <rect x="1" y="4" width="2" height="1" fill="#37474F"/>
+  <rect x="10" y="4" width="2" height="1" fill="#37474F"/>
+
+  <!-- Control panel -->
+  <rect x="0" y="6" width="16" height="2" fill="#455A64"/>
+  <rect x="2" y="6" width="2" height="2" fill="#212121"/>
+  <rect x="5" y="6" width="2" height="2" fill="#212121"/>
+  <rect x="9" y="6" width="2" height="2" fill="#212121"/>
+  <rect x="12" y="6" width="2" height="2" fill="#212121"/>
+  <!-- Knob indicators -->
+  <rect x="2" y="7" width="1" height="1" fill="#F5A623"/>
+  <rect x="5" y="7" width="1" height="1" fill="#78909C"/>
+  <rect x="9" y="7" width="1" height="1" fill="#78909C"/>
+  <rect x="12" y="7" width="1" height="1" fill="#78909C"/>
+
+  <!-- Oven door -->
+  <rect x="1" y="8" width="14" height="11" fill="#455A64"/>
+  <rect x="2" y="9" width="12" height="9" fill="#37474F"/>
+
+  <!-- Oven window -->
+  <rect x="3" y="10" width="10" height="5" fill="#212121"/>
+  <rect x="4" y="11" width="8" height="3" fill="#1A1A1A"/>
+
+  <!-- Oven handle -->
+  <rect x="2" y="16" width="12" height="1" fill="#78909C"/>
+</svg>

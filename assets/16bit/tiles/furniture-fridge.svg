@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 28" width="14" height="28" shape-rendering="crispEdges">
+  <!-- Refrigerator -->
+
+  <!-- Main body -->
+  <rect x="0" y="0" width="14" height="28" fill="#ECEFF1"/>
+
+  <!-- Top (freezer) door -->
+  <rect x="1" y="1" width="12" height="8" fill="#CFD8DC"/>
+  <rect x="2" y="2" width="10" height="6" fill="#ECEFF1"/>
+
+  <!-- Freezer handle -->
+  <rect x="10" y="3" width="2" height="4" fill="#90A4AE"/>
+
+  <!-- Door divider -->
+  <rect x="0" y="9" width="14" height="1" fill="#90A4AE"/>
+
+  <!-- Bottom (fridge) door -->
+  <rect x="1" y="10" width="12" height="16" fill="#CFD8DC"/>
+  <rect x="2" y="11" width="10" height="14" fill="#ECEFF1"/>
+
+  <!-- Fridge handle -->
+  <rect x="10" y="14" width="2" height="6" fill="#90A4AE"/>
+
+  <!-- Ice/water dispenser -->
+  <rect x="3" y="3" width="4" height="4" fill="#78909C"/>
+  <rect x="4" y="4" width="2" height="2" fill="#546E7A"/>
+
+  <!-- Base -->
+  <rect x="0" y="27" width="14" height="1" fill="#78909C"/>
+
+  <!-- Brand logo placeholder -->
+  <rect x="5" y="13" width="4" height="1" fill="#90A4AE"/>
+</svg>

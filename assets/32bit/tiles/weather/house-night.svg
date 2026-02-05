@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- House at Night -->
+
+  <!-- Night sky background -->
+  <rect x="0" y="0" width="32" height="18" fill="#1A237E"/>
+
+  <!-- Stars -->
+  <rect x="4" y="2" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="12" y="4" width="1" height="1" fill="#FFF9C4"/>
+  <rect x="24" y="1" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="28" y="6" width="1" height="1" fill="#FFF9C4"/>
+  <rect x="8" y="8" width="1" height="1" fill="#FFFFFF"/>
+
+  <!-- Ground at night -->
+  <rect x="0" y="24" width="32" height="8" fill="#1B5E20"/>
+  <rect x="0" y="26" width="32" height="6" fill="#0D3311"/>
+
+  <!-- House walls (darker at night) -->
+  <rect x="4" y="12" width="24" height="14" fill="#5D4037"/>
+  <rect x="6" y="14" width="20" height="10" fill="#4E342E"/>
+
+  <!-- Roof (darker) -->
+  <rect x="2" y="8" width="28" height="6" fill="#4E342E"/>
+  <rect x="4" y="6" width="24" height="4" fill="#3E2723"/>
+  <rect x="6" y="4" width="20" height="4" fill="#5D4037"/>
+  <rect x="14" y="2" width="4" height="4" fill="#4E342E"/>
+
+  <!-- Chimney -->
+  <rect x="22" y="2" width="4" height="6" fill="#757575"/>
+  <rect x="23" y="3" width="2" height="4" fill="#616161"/>
+
+  <!-- Window with warm light -->
+  <rect x="8" y="16" width="6" height="6" fill="#FFC107"/>
+  <rect x="9" y="17" width="4" height="4" fill="#FFEB3B"/>
+  <rect x="10" y="18" width="2" height="2" fill="#FFF59D"/>
+  <rect x="11" y="16" width="1" height="6" fill="#3E2723"/>
+  <rect x="8" y="19" width="6" height="1" fill="#3E2723"/>
+
+  <!-- Another lit window -->
+  <rect x="18" y="16" width="6" height="6" fill="#FFB74D"/>
+  <rect x="19" y="17" width="4" height="4" fill="#FFC107"/>
+  <rect x="20" y="18" width="2" height="2" fill="#FFEB3B"/>
+  <rect x="21" y="16" width="1" height="6" fill="#3E2723"/>
+  <rect x="18" y="19" width="6" height="1" fill="#3E2723"/>
+
+  <!-- Door -->
+  <rect x="13" y="18" width="6" height="8" fill="#3E2723"/>
+  <rect x="14" y="19" width="4" height="6" fill="#4E342E"/>
+  <rect x="17" y="22" width="1" height="1" fill="#FFC107"/>
+
+  <!-- Light glow from windows on ground -->
+  <rect x="6" y="24" width="10" height="2" fill="#4E342E" opacity="0.5"/>
+  <rect x="16" y="24" width="10" height="2" fill="#4E342E" opacity="0.5"/>
+</svg>

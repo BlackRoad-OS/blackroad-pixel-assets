@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Scarecrow -->
+
+  <!-- Ground -->
+  <rect x="0" y="28" width="32" height="4" fill="#5D4037"/>
+
+  <!-- Post -->
+  <rect x="14" y="10" width="4" height="18" fill="#8D6E63"/>
+  <rect x="15" y="10" width="2" height="18" fill="#A1887F"/>
+
+  <!-- Horizontal bar (arms) -->
+  <rect x="4" y="12" width="24" height="3" fill="#6D4C41"/>
+  <rect x="4" y="12" width="24" height="1" fill="#8D6E63"/>
+
+  <!-- Head (burlap sack) -->
+  <rect x="10" y="2" width="12" height="10" fill="#D4A574"/>
+  <rect x="11" y="1" width="10" height="2" fill="#E0B98A"/>
+  <rect x="11" y="11" width="10" height="2" fill="#C9956C"/>
+
+  <!-- Hat -->
+  <rect x="8" y="0" width="16" height="3" fill="#5D4037"/>
+  <rect x="11" y="0" width="10" height="1" fill="#6D4C41"/>
+  <rect x="10" y="-2" width="12" height="3" fill="#4E342E"/>
+
+  <!-- Face -->
+  <rect x="12" y="4" width="2" height="2" fill="#3E2723"/>
+  <rect x="18" y="4" width="2" height="2" fill="#3E2723"/>
+  <rect x="14" y="7" width="4" height="2" fill="#3E2723"/>
+
+  <!-- Shirt -->
+  <rect x="6" y="14" width="8" height="8" fill="#1976D2"/>
+  <rect x="18" y="14" width="8" height="8" fill="#1976D2"/>
+  <rect x="10" y="14" width="12" height="10" fill="#2196F3"/>
+  <rect x="14" y="14" width="4" height="8" fill="#1565C0"/>
+
+  <!-- Patches -->
+  <rect x="8" y="16" width="3" height="3" fill="#8BC34A"/>
+  <rect x="20" y="18" width="3" height="3" fill="#FF9800"/>
+
+  <!-- Hands (gloves) -->
+  <rect x="2" y="13" width="3" height="4" fill="#D4A574"/>
+  <rect x="27" y="13" width="3" height="4" fill="#D4A574"/>
+
+  <!-- Straw poking out -->
+  <rect x="6" y="21" width="2" height="3" fill="#FDD835"/>
+  <rect x="24" y="21" width="2" height="3" fill="#FDD835"/>
+  <rect x="10" y="10" width="1" height="3" fill="#FDD835"/>
+  <rect x="21" y="10" width="1" height="3" fill="#FDD835"/>
+</svg>

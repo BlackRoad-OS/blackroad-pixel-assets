@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Elder Male NPC - 32bit -->
+
+  <!-- Shadow -->
+  <rect x="10" y="30" width="12" height="2" fill="#3E2723"/>
+
+  <!-- Slippers -->
+  <rect x="10" y="26" width="5" height="4" fill="#5D4037"/>
+  <rect x="17" y="26" width="5" height="4" fill="#5D4037"/>
+  <rect x="11" y="27" width="3" height="2" fill="#6D4C41"/>
+  <rect x="18" y="27" width="3" height="2" fill="#6D4C41"/>
+
+  <!-- Pants -->
+  <rect x="10" y="18" width="5" height="8" fill="#455A64"/>
+  <rect x="17" y="18" width="5" height="8" fill="#455A64"/>
+  <rect x="11" y="19" width="3" height="5" fill="#546E7A"/>
+  <rect x="18" y="19" width="3" height="5" fill="#546E7A"/>
+
+  <!-- Cardigan -->
+  <rect x="8" y="8" width="16" height="12" fill="#795548"/>
+  <rect x="10" y="9" width="12" height="8" fill="#8D6E63"/>
+
+  <!-- Shirt underneath -->
+  <rect x="12" y="10" width="8" height="6" fill="#ECEFF1"/>
+
+  <!-- Cardigan buttons -->
+  <rect x="15" y="10" width="2" height="2" fill="#5D4037"/>
+  <rect x="15" y="13" width="2" height="2" fill="#5D4037"/>
+
+  <!-- Arms -->
+  <rect x="5" y="8" width="4" height="8" fill="#795548"/>
+  <rect x="23" y="8" width="4" height="8" fill="#795548"/>
+  <rect x="6" y="9" width="2" height="5" fill="#8D6E63"/>
+
+  <!-- Hands (wrinkled) -->
+  <rect x="5" y="14" width="4" height="3" fill="#FFCCBC"/>
+  <rect x="23" y="14" width="4" height="3" fill="#FFCCBC"/>
+
+  <!-- Walking cane -->
+  <rect x="26" y="14" width="2" height="16" fill="#5D4037"/>
+  <rect x="25" y="14" width="4" height="3" fill="#6D4C41"/>
+
+  <!-- Neck -->
+  <rect x="14" y="4" width="4" height="4" fill="#FFCCBC"/>
+
+  <!-- Head -->
+  <rect x="10" y="-2" width="12" height="8" fill="#FFCCBC"/>
+  <rect x="11" y="-3" width="10" height="2" fill="#FFAB91"/>
+
+  <!-- Bald head with side hair -->
+  <rect x="9" y="0" width="3" height="3" fill="#E0E0E0"/>
+  <rect x="20" y="0" width="3" height="3" fill="#E0E0E0"/>
+
+  <!-- Wrinkles -->
+  <rect x="10" y="0" width="1" height="1" fill="#D7CCC8"/>
+  <rect x="21" y="0" width="1" height="1" fill="#D7CCC8"/>
+
+  <!-- Face -->
+  <rect x="12" y="0" width="2" height="2" fill="#5D4037"/>
+  <rect x="18" y="0" width="2" height="2" fill="#5D4037"/>
+
+  <!-- Bushy eyebrows -->
+  <rect x="11" y="-1" width="3" height="1" fill="#BDBDBD"/>
+  <rect x="18" y="-1" width="3" height="1" fill="#BDBDBD"/>
+
+  <!-- Glasses -->
+  <rect x="11" y="0" width="4" height="3" fill="none" stroke="#5D4037" stroke-width="0.5"/>
+  <rect x="17" y="0" width="4" height="3" fill="none" stroke="#5D4037" stroke-width="0.5"/>
+  <rect x="15" y="1" width="2" height="1" fill="#5D4037"/>
+
+  <!-- Smile -->
+  <rect x="14" y="4" width="4" height="1" fill="#BCAAA4"/>
+</svg>

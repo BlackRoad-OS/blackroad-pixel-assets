@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Shopkeeper Male NPC - 32bit -->
+
+  <!-- Shadow -->
+  <rect x="10" y="30" width="12" height="2" fill="#3E2723"/>
+
+  <!-- Shoes -->
+  <rect x="10" y="27" width="5" height="3" fill="#3E2723"/>
+  <rect x="17" y="27" width="5" height="3" fill="#3E2723"/>
+  <rect x="11" y="28" width="3" height="1" fill="#5D4037"/>
+  <rect x="18" y="28" width="3" height="1" fill="#5D4037"/>
+
+  <!-- Pants -->
+  <rect x="10" y="18" width="5" height="9" fill="#4E342E"/>
+  <rect x="17" y="18" width="5" height="9" fill="#4E342E"/>
+  <rect x="11" y="19" width="3" height="5" fill="#5D4037"/>
+  <rect x="18" y="19" width="3" height="5" fill="#5D4037"/>
+
+  <!-- Apron -->
+  <rect x="9" y="12" width="14" height="12" fill="#ECEFF1"/>
+  <rect x="10" y="13" width="12" height="8" fill="#FAFAFA"/>
+
+  <!-- Apron pocket -->
+  <rect x="12" y="18" width="8" height="4" fill="#CFD8DC"/>
+
+  <!-- Vest -->
+  <rect x="8" y="8" width="16" height="10" fill="#5D4037"/>
+  <rect x="11" y="9" width="10" height="6" fill="#6D4C41"/>
+
+  <!-- Shirt collar -->
+  <rect x="13" y="8" width="6" height="3" fill="#FAFAFA"/>
+
+  <!-- Arms (shirt sleeves) -->
+  <rect x="5" y="8" width="4" height="8" fill="#FAFAFA"/>
+  <rect x="23" y="8" width="4" height="8" fill="#FAFAFA"/>
+
+  <!-- Hands -->
+  <rect x="5" y="14" width="4" height="3" fill="#FFCCBC"/>
+  <rect x="23" y="14" width="4" height="3" fill="#FFCCBC"/>
+
+  <!-- Neck -->
+  <rect x="14" y="4" width="4" height="4" fill="#FFCCBC"/>
+
+  <!-- Head -->
+  <rect x="10" y="-2" width="12" height="8" fill="#FFCCBC"/>
+  <rect x="11" y="-3" width="10" height="2" fill="#FFAB91"/>
+  <rect x="11" y="5" width="10" height="2" fill="#FFAB91"/>
+
+  <!-- Hair (gray, balding) -->
+  <rect x="9" y="-2" width="3" height="4" fill="#9E9E9E"/>
+  <rect x="20" y="-2" width="3" height="4" fill="#9E9E9E"/>
+  <rect x="10" y="-3" width="12" height="2" fill="#BDBDBD"/>
+
+  <!-- Mustache -->
+  <rect x="12" y="3" width="8" height="2" fill="#757575"/>
+
+  <!-- Face -->
+  <rect x="12" y="0" width="2" height="2" fill="#5D4037"/>
+  <rect x="18" y="0" width="2" height="2" fill="#5D4037"/>
+
+  <!-- Glasses -->
+  <rect x="11" y="0" width="4" height="3" fill="none" stroke="#5D4037" stroke-width="0.5"/>
+  <rect x="17" y="0" width="4" height="3" fill="none" stroke="#5D4037" stroke-width="0.5"/>
+  <rect x="15" y="1" width="2" height="1" fill="#5D4037"/>
+</svg>

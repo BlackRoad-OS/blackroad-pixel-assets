@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Hay Bale -->
+
+  <!-- Ground shadow -->
+  <rect x="0" y="28" width="32" height="4" fill="#5D4037"/>
+  <rect x="2" y="26" width="28" height="2" fill="#4E342E"/>
+
+  <!-- Main hay bale body -->
+  <rect x="2" y="8" width="28" height="18" fill="#FDD835"/>
+  <rect x="0" y="10" width="2" height="14" fill="#F9A825"/>
+  <rect x="30" y="10" width="2" height="14" fill="#F9A825"/>
+  <rect x="4" y="6" width="24" height="4" fill="#FFEB3B"/>
+  <rect x="4" y="24" width="24" height="3" fill="#F9A825"/>
+
+  <!-- Straw texture -->
+  <rect x="4" y="10" width="24" height="2" fill="#FFE082"/>
+  <rect x="4" y="14" width="24" height="2" fill="#FFE082"/>
+  <rect x="4" y="18" width="24" height="2" fill="#FFE082"/>
+  <rect x="4" y="22" width="24" height="2" fill="#FFE082"/>
+
+  <!-- Twine/binding -->
+  <rect x="8" y="6" width="3" height="20" fill="#8D6E63"/>
+  <rect x="9" y="6" width="1" height="20" fill="#A1887F"/>
+  <rect x="21" y="6" width="3" height="20" fill="#8D6E63"/>
+  <rect x="22" y="6" width="1" height="20" fill="#A1887F"/>
+
+  <!-- Loose straw -->
+  <rect x="6" y="4" width="1" height="3" fill="#FFCA28"/>
+  <rect x="14" y="5" width="1" height="2" fill="#FFCA28"/>
+  <rect x="26" y="4" width="1" height="3" fill="#FFCA28"/>
+  <rect x="2" y="24" width="1" height="3" fill="#F9A825"/>
+  <rect x="29" y="25" width="1" height="2" fill="#F9A825"/>
+
+  <!-- Highlight -->
+  <rect x="4" y="8" width="4" height="4" fill="#FFEE58"/>
+</svg>

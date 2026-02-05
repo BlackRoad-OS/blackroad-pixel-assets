@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Tree with Snow -->
+
+  <!-- Ground snow -->
+  <rect x="0" y="26" width="32" height="6" fill="#FAFAFA"/>
+  <rect x="0" y="28" width="32" height="4" fill="#E0E0E0"/>
+
+  <!-- Trunk -->
+  <rect x="13" y="18" width="6" height="10" fill="#5D4037"/>
+  <rect x="14" y="19" width="4" height="8" fill="#6D4C41"/>
+  <rect x="15" y="20" width="2" height="6" fill="#8D6E63"/>
+
+  <!-- Tree foliage (evergreen shape) -->
+  <!-- Bottom layer -->
+  <rect x="4" y="16" width="24" height="6" fill="#2E7D32"/>
+  <rect x="6" y="14" width="20" height="4" fill="#388E3C"/>
+
+  <!-- Middle layer -->
+  <rect x="6" y="10" width="20" height="6" fill="#388E3C"/>
+  <rect x="8" y="8" width="16" height="4" fill="#43A047"/>
+
+  <!-- Top layer -->
+  <rect x="10" y="4" width="12" height="6" fill="#43A047"/>
+  <rect x="12" y="2" width="8" height="4" fill="#4CAF50"/>
+  <rect x="14" y="0" width="4" height="3" fill="#66BB6A"/>
+
+  <!-- Snow on branches -->
+  <rect x="4" y="14" width="24" height="3" fill="#FAFAFA"/>
+  <rect x="6" y="13" width="20" height="2" fill="#E0E0E0"/>
+
+  <rect x="6" y="8" width="20" height="3" fill="#FAFAFA"/>
+  <rect x="8" y="7" width="16" height="2" fill="#E0E0E0"/>
+
+  <rect x="10" y="2" width="12" height="3" fill="#FAFAFA"/>
+  <rect x="12" y="1" width="8" height="2" fill="#E0E0E0"/>
+
+  <rect x="14" y="0" width="4" height="2" fill="#FAFAFA"/>
+
+  <!-- Snow on ground around tree -->
+  <rect x="6" y="24" width="6" height="4" fill="#ECEFF1"/>
+  <rect x="20" y="24" width="6" height="4" fill="#ECEFF1"/>
+
+  <!-- Sparkles -->
+  <rect x="8" y="10" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="22" y="12" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="14" y="4" width="1" height="1" fill="#FFFFFF"/>
+</svg>

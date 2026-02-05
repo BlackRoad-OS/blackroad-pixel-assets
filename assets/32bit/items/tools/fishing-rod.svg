@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Fishing Rod -->
+
+  <!-- Rod sections (tapered) -->
+  <!-- Butt section (thick) -->
+  <rect x="26" y="24" width="4" height="6" fill="#5D4037"/>
+  <rect x="27" y="25" width="2" height="4" fill="#6D4C41"/>
+
+  <!-- Middle section -->
+  <rect x="18" y="16" width="10" height="4" fill="#8D6E63"/>
+  <rect x="20" y="17" width="6" height="2" fill="#A1887F"/>
+
+  <!-- Tip section (thin) -->
+  <rect x="4" y="4" width="16" height="3" fill="#BCAAA4"/>
+  <rect x="6" y="5" width="12" height="1" fill="#D7CCC8"/>
+
+  <!-- Very tip -->
+  <rect x="2" y="4" width="4" height="2" fill="#A1887F"/>
+  <rect x="0" y="4" width="2" height="2" fill="#8D6E63"/>
+
+  <!-- Connecting joints -->
+  <rect x="18" y="10" width="4" height="8" fill="#6D4C41"/>
+  <rect x="19" y="12" width="2" height="4" fill="#8D6E63"/>
+
+  <!-- Handle/grip -->
+  <rect x="24" y="22" width="6" height="8" fill="#3E2723"/>
+  <rect x="25" y="24" width="4" height="4" fill="#4E342E"/>
+
+  <!-- Cork grip -->
+  <rect x="24" y="26" width="6" height="4" fill="#D4A574"/>
+  <rect x="25" y="27" width="4" height="2" fill="#E0B98A"/>
+
+  <!-- Reel seat -->
+  <rect x="22" y="20" width="6" height="4" fill="#607D8B"/>
+  <rect x="23" y="21" width="4" height="2" fill="#78909C"/>
+
+  <!-- Reel -->
+  <rect x="20" y="18" width="4" height="6" fill="#455A64"/>
+  <rect x="21" y="19" width="2" height="4" fill="#546E7A"/>
+  <rect x="21" y="20" width="1" height="2" fill="#78909C"/>
+
+  <!-- Reel handle -->
+  <rect x="18" y="20" width="2" height="1" fill="#37474F"/>
+  <rect x="17" y="19" width="2" height="2" fill="#455A64"/>
+
+  <!-- Line guides -->
+  <rect x="14" y="6" width="2" height="2" fill="#78909C"/>
+  <rect x="10" y="5" width="1" height="2" fill="#607D8B"/>
+  <rect x="6" y="4" width="1" height="2" fill="#607D8B"/>
+
+  <!-- Fishing line -->
+  <rect x="0" y="2" width="1" height="4" fill="#BDBDBD"/>
+  <rect x="0" y="0" width="1" height="2" fill="#9E9E9E"/>
+
+  <!-- Hook (at end of line) -->
+  <rect x="0" y="0" width="2" height="1" fill="#78909C"/>
+  <rect x="1" y="1" width="1" height="1" fill="#607D8B"/>
+</svg>

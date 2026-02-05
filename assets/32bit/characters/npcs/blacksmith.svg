@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Blacksmith NPC - 32bit -->
+
+  <!-- Shadow -->
+  <rect x="8" y="30" width="16" height="2" fill="#3E2723"/>
+
+  <!-- Boots (heavy work boots) -->
+  <rect x="8" y="26" width="6" height="4" fill="#3E2723"/>
+  <rect x="18" y="26" width="6" height="4" fill="#3E2723"/>
+  <rect x="9" y="27" width="4" height="2" fill="#4E342E"/>
+  <rect x="19" y="27" width="4" height="2" fill="#4E342E"/>
+
+  <!-- Pants -->
+  <rect x="9" y="18" width="6" height="8" fill="#5D4037"/>
+  <rect x="17" y="18" width="6" height="8" fill="#5D4037"/>
+  <rect x="10" y="19" width="4" height="5" fill="#6D4C41"/>
+  <rect x="18" y="19" width="4" height="5" fill="#6D4C41"/>
+
+  <!-- Leather apron -->
+  <rect x="8" y="12" width="16" height="12" fill="#795548"/>
+  <rect x="10" y="13" width="12" height="8" fill="#8D6E63"/>
+
+  <!-- Tank top -->
+  <rect x="9" y="8" width="14" height="8" fill="#424242"/>
+  <rect x="11" y="9" width="10" height="5" fill="#616161"/>
+
+  <!-- Muscular arms -->
+  <rect x="4" y="8" width="6" height="10" fill="#FFCCBC"/>
+  <rect x="22" y="8" width="6" height="10" fill="#FFCCBC"/>
+  <rect x="5" y="9" width="4" height="7" fill="#FFAB91"/>
+  <rect x="23" y="9" width="4" height="7" fill="#FFAB91"/>
+
+  <!-- Hands (gloves) -->
+  <rect x="4" y="16" width="5" height="4" fill="#5D4037"/>
+  <rect x="23" y="16" width="5" height="4" fill="#5D4037"/>
+
+  <!-- Neck (thick) -->
+  <rect x="13" y="4" width="6" height="4" fill="#FFCCBC"/>
+
+  <!-- Head -->
+  <rect x="9" y="-2" width="14" height="8" fill="#FFCCBC"/>
+  <rect x="10" y="-3" width="12" height="2" fill="#FFAB91"/>
+  <rect x="10" y="5" width="12" height="2" fill="#FFAB91"/>
+
+  <!-- Hair (short, dark) -->
+  <rect x="9" y="-3" width="14" height="3" fill="#212121"/>
+  <rect x="8" y="-1" width="2" height="3" fill="#424242"/>
+  <rect x="22" y="-1" width="2" height="3" fill="#424242"/>
+
+  <!-- Beard -->
+  <rect x="10" y="3" width="12" height="4" fill="#424242"/>
+  <rect x="11" y="4" width="10" height="2" fill="#616161"/>
+
+  <!-- Face -->
+  <rect x="12" y="0" width="3" height="2" fill="#3E2723"/>
+  <rect x="17" y="0" width="3" height="2" fill="#3E2723"/>
+
+  <!-- Scar -->
+  <rect x="19" y="1" width="1" height="3" fill="#D7CCC8"/>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Floor Lamp -->
+
+  <!-- Shadow -->
+  <rect x="10" y="30" width="12" height="2" fill="#3E2723"/>
+
+  <!-- Base -->
+  <rect x="10" y="28" width="12" height="2" fill="#5D4037"/>
+  <rect x="12" y="26" width="8" height="2" fill="#6D4C41"/>
+  <rect x="12" y="28" width="8" height="1" fill="#8D6E63"/>
+
+  <!-- Pole -->
+  <rect x="15" y="10" width="2" height="16" fill="#8D6E63"/>
+  <rect x="15" y="10" width="1" height="16" fill="#A1887F"/>
+
+  <!-- Lamp shade -->
+  <rect x="8" y="2" width="16" height="10" fill="#FFF9C4"/>
+  <rect x="6" y="10" width="20" height="2" fill="#FFF176"/>
+  <rect x="10" y="0" width="12" height="4" fill="#FFFDE7"/>
+
+  <!-- Shade pattern/texture -->
+  <rect x="10" y="4" width="12" height="6" fill="#FFF59D"/>
+  <rect x="8" y="6" width="2" height="4" fill="#FFF176"/>
+  <rect x="22" y="6" width="2" height="4" fill="#FFF176"/>
+
+  <!-- Inner glow (light on) -->
+  <rect x="12" y="4" width="8" height="6" fill="#FFEB3B"/>
+  <rect x="14" y="2" width="4" height="4" fill="#FFF59D"/>
+
+  <!-- Shade rim -->
+  <rect x="6" y="10" width="20" height="1" fill="#8D6E63"/>
+  <rect x="10" y="0" width="12" height="1" fill="#8D6E63"/>
+
+  <!-- Light rays (subtle) -->
+  <rect x="4" y="12" width="2" height="1" fill="#FFF9C4"/>
+  <rect x="26" y="12" width="2" height="1" fill="#FFF9C4"/>
+  <rect x="6" y="14" width="1" height="2" fill="#FFF9C4"/>
+  <rect x="25" y="14" width="1" height="2" fill="#FFF9C4"/>
+
+  <!-- Finial on top -->
+  <rect x="15" y="0" width="2" height="1" fill="#6D4C41"/>
+</svg>

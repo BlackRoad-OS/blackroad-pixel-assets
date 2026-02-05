@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Farmer Female NPC - 32bit -->
+
+  <!-- Shadow -->
+  <rect x="10" y="30" width="12" height="2" fill="#3E2723"/>
+
+  <!-- Boots -->
+  <rect x="11" y="26" width="4" height="4" fill="#5D4037"/>
+  <rect x="17" y="26" width="4" height="4" fill="#5D4037"/>
+  <rect x="12" y="27" width="2" height="2" fill="#6D4C41"/>
+  <rect x="18" y="27" width="2" height="2" fill="#6D4C41"/>
+
+  <!-- Dress/skirt -->
+  <rect x="9" y="18" width="14" height="8" fill="#81C784"/>
+  <rect x="8" y="20" width="16" height="4" fill="#66BB6A"/>
+  <rect x="10" y="19" width="12" height="3" fill="#A5D6A7"/>
+
+  <!-- Apron -->
+  <rect x="11" y="14" width="10" height="10" fill="#FFFDE7"/>
+  <rect x="12" y="15" width="8" height="6" fill="#FFF9C4"/>
+
+  <!-- Blouse -->
+  <rect x="9" y="10" width="14" height="8" fill="#FFF9C4"/>
+  <rect x="11" y="11" width="10" height="4" fill="#FFFDE7"/>
+
+  <!-- Arms -->
+  <rect x="6" y="10" width="4" height="6" fill="#FFCCBC"/>
+  <rect x="22" y="10" width="4" height="6" fill="#FFCCBC"/>
+  <rect x="7" y="11" width="2" height="4" fill="#FFAB91"/>
+
+  <!-- Hands -->
+  <rect x="6" y="15" width="4" height="3" fill="#FFCCBC"/>
+  <rect x="22" y="15" width="4" height="3" fill="#FFCCBC"/>
+
+  <!-- Neck -->
+  <rect x="14" y="6" width="4" height="4" fill="#FFCCBC"/>
+
+  <!-- Head -->
+  <rect x="10" y="0" width="12" height="8" fill="#FFCCBC"/>
+  <rect x="11" y="-1" width="10" height="2" fill="#FFAB91"/>
+  <rect x="11" y="7" width="10" height="2" fill="#FFAB91"/>
+
+  <!-- Hair (auburn/red) -->
+  <rect x="9" y="-2" width="14" height="6" fill="#BF360C"/>
+  <rect x="8" y="0" width="2" height="8" fill="#D84315"/>
+  <rect x="22" y="0" width="2" height="8" fill="#D84315"/>
+  <rect x="8" y="6" width="3" height="6" fill="#BF360C"/>
+  <rect x="21" y="6" width="3" height="6" fill="#BF360C"/>
+
+  <!-- Bandana/headscarf -->
+  <rect x="9" y="-2" width="14" height="3" fill="#E53935"/>
+  <rect x="10" y="-2" width="12" height="1" fill="#EF5350"/>
+
+  <!-- Face -->
+  <rect x="12" y="2" width="2" height="2" fill="#5D4037"/>
+  <rect x="18" y="2" width="2" height="2" fill="#5D4037"/>
+  <rect x="15" y="5" width="2" height="1" fill="#EF9A9A"/>
+  <rect x="13" y="3" width="1" height="1" fill="#FFAB91"/>
+  <rect x="18" y="3" width="1" height="1" fill="#FFAB91"/>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Child Girl NPC - 32bit (smaller proportions) -->
+
+  <!-- Shadow -->
+  <rect x="12" y="30" width="8" height="2" fill="#3E2723"/>
+
+  <!-- Mary jane shoes -->
+  <rect x="11" y="26" width="4" height="4" fill="#212121"/>
+  <rect x="17" y="26" width="4" height="4" fill="#212121"/>
+  <rect x="12" y="27" width="2" height="2" fill="#424242"/>
+  <rect x="18" y="27" width="2" height="2" fill="#424242"/>
+
+  <!-- Dress -->
+  <rect x="9" y="14" width="14" height="12" fill="#E91E63"/>
+  <rect x="8" y="18" width="16" height="6" fill="#F06292"/>
+  <rect x="10" y="15" width="12" height="6" fill="#F48FB1"/>
+
+  <!-- Dress pattern -->
+  <rect x="10" y="20" width="2" height="2" fill="#FAFAFA"/>
+  <rect x="14" y="22" width="2" height="2" fill="#FAFAFA"/>
+  <rect x="20" y="20" width="2" height="2" fill="#FAFAFA"/>
+
+  <!-- Blouse top -->
+  <rect x="10" y="10" width="12" height="6" fill="#FAFAFA"/>
+  <rect x="11" y="11" width="10" height="4" fill="#F5F5F5"/>
+
+  <!-- Peter pan collar -->
+  <rect x="9" y="10" width="4" height="2" fill="#FAFAFA"/>
+  <rect x="19" y="10" width="4" height="2" fill="#FAFAFA"/>
+
+  <!-- Arms -->
+  <rect x="6" y="10" width="4" height="6" fill="#E91E63"/>
+  <rect x="22" y="10" width="4" height="6" fill="#E91E63"/>
+
+  <!-- Hands -->
+  <rect x="6" y="14" width="4" height="3" fill="#FFCCBC"/>
+  <rect x="22" y="14" width="4" height="3" fill="#FFCCBC"/>
+
+  <!-- Neck -->
+  <rect x="14" y="6" width="4" height="4" fill="#FFCCBC"/>
+
+  <!-- Head -->
+  <rect x="10" y="0" width="12" height="8" fill="#FFCCBC"/>
+  <rect x="11" y="-1" width="10" height="2" fill="#FFAB91"/>
+  <rect x="11" y="7" width="10" height="2" fill="#FFAB91"/>
+
+  <!-- Hair (pigtails) -->
+  <rect x="9" y="-2" width="14" height="5" fill="#FFB300"/>
+  <rect x="8" y="0" width="2" height="3" fill="#FFC107"/>
+  <rect x="22" y="0" width="2" height="3" fill="#FFC107"/>
+  <!-- Pigtails -->
+  <rect x="6" y="2" width="3" height="6" fill="#FFC107"/>
+  <rect x="23" y="2" width="3" height="6" fill="#FFC107"/>
+  <rect x="5" y="4" width="2" height="4" fill="#FFB300"/>
+  <rect x="25" y="4" width="2" height="4" fill="#FFB300"/>
+
+  <!-- Hair bows -->
+  <rect x="6" y="0" width="3" height="3" fill="#E91E63"/>
+  <rect x="23" y="0" width="3" height="3" fill="#E91E63"/>
+
+  <!-- Face (big eyes) -->
+  <rect x="12" y="2" width="3" height="3" fill="#5D4037"/>
+  <rect x="17" y="2" width="3" height="3" fill="#5D4037"/>
+  <rect x="13" y="3" width="1" height="1" fill="#FAFAFA"/>
+  <rect x="18" y="3" width="1" height="1" fill="#FAFAFA"/>
+  <rect x="15" y="6" width="2" height="1" fill="#F48FB1"/>
+
+  <!-- Rosy cheeks -->
+  <rect x="11" y="4" width="1" height="1" fill="#F8BBD9"/>
+  <rect x="20" y="4" width="1" height="1" fill="#F8BBD9"/>
+</svg>

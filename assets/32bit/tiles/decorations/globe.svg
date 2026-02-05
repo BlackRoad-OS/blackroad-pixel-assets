@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Decorative Globe -->
+
+  <!-- Shadow -->
+  <rect x="10" y="30" width="12" height="2" fill="#3E2723"/>
+
+  <!-- Stand base -->
+  <rect x="10" y="28" width="12" height="2" fill="#5D4037"/>
+  <rect x="12" y="26" width="8" height="2" fill="#6D4C41"/>
+
+  <!-- Stand pole -->
+  <rect x="15" y="20" width="2" height="6" fill="#8D6E63"/>
+  <rect x="15" y="20" width="1" height="6" fill="#A1887F"/>
+
+  <!-- Stand arc -->
+  <rect x="8" y="8" width="2" height="14" fill="#6D4C41"/>
+  <rect x="22" y="8" width="2" height="14" fill="#6D4C41"/>
+  <rect x="10" y="6" width="12" height="2" fill="#8D6E63"/>
+
+  <!-- Globe -->
+  <rect x="10" y="8" width="12" height="12" fill="#2196F3"/>
+  <rect x="8" y="10" width="4" height="8" fill="#2196F3"/>
+  <rect x="20" y="10" width="4" height="8" fill="#2196F3"/>
+  <rect x="12" y="6" width="8" height="4" fill="#2196F3"/>
+  <rect x="12" y="18" width="8" height="4" fill="#2196F3"/>
+
+  <!-- Continents -->
+  <!-- North America -->
+  <rect x="9" y="9" width="4" height="4" fill="#4CAF50"/>
+  <rect x="8" y="10" width="2" height="2" fill="#66BB6A"/>
+
+  <!-- Europe/Africa -->
+  <rect x="16" y="10" width="3" height="6" fill="#8BC34A"/>
+  <rect x="18" y="12" width="3" height="4" fill="#4CAF50"/>
+
+  <!-- South America -->
+  <rect x="12" y="14" width="2" height="4" fill="#66BB6A"/>
+
+  <!-- Asia -->
+  <rect x="19" y="8" width="4" height="4" fill="#81C784"/>
+
+  <!-- Australia -->
+  <rect x="20" y="16" width="2" height="2" fill="#8BC34A"/>
+
+  <!-- Polar ice caps -->
+  <rect x="14" y="6" width="4" height="2" fill="#E3F2FD"/>
+  <rect x="14" y="20" width="4" height="2" fill="#E3F2FD"/>
+
+  <!-- Globe axis -->
+  <rect x="15" y="4" width="2" height="3" fill="#8D6E63"/>
+  <rect x="15" y="21" width="2" height="2" fill="#8D6E63"/>
+
+  <!-- Highlight -->
+  <rect x="10" y="10" width="2" height="4" fill="#64B5F6"/>
+</svg>

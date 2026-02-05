@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Grapes - Stage 3 (ripe clusters) -->
+
+  <!-- Soil -->
+  <rect x="0" y="28" width="32" height="4" fill="#5D4037"/>
+
+  <!-- Trellis/support posts -->
+  <rect x="2" y="4" width="2" height="24" fill="#8D6E63"/>
+  <rect x="2" y="4" width="1" height="24" fill="#A1887F"/>
+  <rect x="28" y="4" width="2" height="24" fill="#8D6E63"/>
+  <rect x="28" y="4" width="1" height="24" fill="#A1887F"/>
+  <rect x="2" y="4" width="28" height="2" fill="#6D4C41"/>
+
+  <!-- Vines on trellis -->
+  <rect x="4" y="4" width="24" height="2" fill="#558B2F"/>
+  <rect x="6" y="6" width="2" height="8" fill="#689F38"/>
+  <rect x="16" y="6" width="2" height="6" fill="#689F38"/>
+  <rect x="24" y="6" width="2" height="8" fill="#689F38"/>
+
+  <!-- Leaves -->
+  <rect x="4" y="6" width="5" height="4" fill="#7CB342"/>
+  <rect x="14" y="5" width="6" height="4" fill="#8BC34A"/>
+  <rect x="22" y="6" width="6" height="4" fill="#7CB342"/>
+
+  <!-- Grape cluster 1 (purple) -->
+  <rect x="6" y="12" width="6" height="10" fill="#7B1FA2"/>
+  <rect x="7" y="11" width="4" height="2" fill="#8E24AA"/>
+  <rect x="7" y="21" width="4" height="2" fill="#6A1B9A"/>
+  <rect x="8" y="13" width="2" height="2" fill="#AB47BC"/>
+  <rect x="6" y="15" width="2" height="2" fill="#9C27B0"/>
+  <rect x="10" y="15" width="2" height="2" fill="#9C27B0"/>
+  <rect x="7" y="17" width="2" height="2" fill="#8E24AA"/>
+  <rect x="9" y="18" width="2" height="2" fill="#7B1FA2"/>
+
+  <!-- Grape cluster 2 (green) -->
+  <rect x="20" y="10" width="7" height="12" fill="#8BC34A"/>
+  <rect x="21" y="9" width="5" height="2" fill="#9CCC65"/>
+  <rect x="21" y="21" width="5" height="2" fill="#7CB342"/>
+  <rect x="22" y="11" width="2" height="2" fill="#AED581"/>
+  <rect x="20" y="13" width="2" height="2" fill="#9CCC65"/>
+  <rect x="24" y="13" width="2" height="2" fill="#9CCC65"/>
+  <rect x="21" y="15" width="2" height="2" fill="#8BC34A"/>
+  <rect x="23" y="16" width="2" height="2" fill="#7CB342"/>
+  <rect x="22" y="18" width="2" height="2" fill="#8BC34A"/>
+</svg>

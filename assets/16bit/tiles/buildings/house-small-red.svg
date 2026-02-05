@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" shape-rendering="crispEdges">
+  <!-- Small cottage - red roof -->
+
+  <!-- Roof -->
+  <rect x="2" y="4" width="20" height="2" fill="#C62828"/>
+  <rect x="4" y="2" width="16" height="2" fill="#D32F2F"/>
+  <rect x="6" y="0" width="12" height="2" fill="#E53935"/>
+  <rect x="10" y="0" width="4" height="1" fill="#EF5350"/>
+
+  <!-- Chimney -->
+  <rect x="16" y="0" width="3" height="4" fill="#795548"/>
+  <rect x="16" y="0" width="1" height="3" fill="#8D6E63"/>
+
+  <!-- Walls -->
+  <rect x="2" y="6" width="20" height="16" fill="#FFF8E1"/>
+  <rect x="2" y="6" width="20" height="1" fill="#FFE082"/>
+
+  <!-- Door -->
+  <rect x="10" y="14" width="4" height="8" fill="#5D4037"/>
+  <rect x="10" y="14" width="4" height="1" fill="#6D4C41"/>
+  <rect x="10" y="14" width="1" height="8" fill="#6D4C41"/>
+  <rect x="13" y="18" width="1" height="1" fill="#FDD835"/>
+
+  <!-- Windows -->
+  <rect x="4" y="9" width="4" height="4" fill="#81D4FA"/>
+  <rect x="6" y="9" width="1" height="4" fill="#4FC3F7"/>
+  <rect x="4" y="11" width="4" height="1" fill="#4FC3F7"/>
+  <rect x="4" y="9" width="4" height="1" fill="#E1F5FE"/>
+
+  <rect x="16" y="9" width="4" height="4" fill="#81D4FA"/>
+  <rect x="18" y="9" width="1" height="4" fill="#4FC3F7"/>
+  <rect x="16" y="11" width="4" height="1" fill="#4FC3F7"/>
+  <rect x="16" y="9" width="4" height="1" fill="#E1F5FE"/>
+
+  <!-- Foundation -->
+  <rect x="0" y="22" width="24" height="2" fill="#757575"/>
+</svg>

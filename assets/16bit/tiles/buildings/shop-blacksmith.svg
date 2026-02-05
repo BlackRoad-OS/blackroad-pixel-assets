@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 28" width="32" height="28" shape-rendering="crispEdges">
+  <!-- Blacksmith -->
+
+  <!-- Roof -->
+  <rect x="0" y="4" width="32" height="3" fill="#424242"/>
+  <rect x="2" y="2" width="28" height="2" fill="#616161"/>
+  <rect x="4" y="0" width="24" height="2" fill="#757575"/>
+
+  <!-- Chimney with smoke -->
+  <rect x="24" y="0" width="5" height="6" fill="#9E9E9E"/>
+  <rect x="24" y="0" width="2" height="4" fill="#BDBDBD"/>
+
+  <!-- Building - stone -->
+  <rect x="0" y="7" width="32" height="19" fill="#78909C"/>
+
+  <!-- Stone texture -->
+  <rect x="2" y="8" width="6" height="4" fill="#90A4AE"/>
+  <rect x="10" y="9" width="5" height="3" fill="#607D8B"/>
+  <rect x="24" y="8" width="6" height="4" fill="#607D8B"/>
+  <rect x="3" y="14" width="5" height="3" fill="#607D8B"/>
+  <rect x="26" y="14" width="4" height="3" fill="#90A4AE"/>
+
+  <!-- Large forge opening -->
+  <rect x="4" y="13" width="10" height="13" fill="#212121"/>
+  <rect x="6" y="18" width="6" height="6" fill="#FF5722"/>
+  <rect x="7" y="19" width="4" height="4" fill="#FF9800"/>
+  <rect x="8" y="20" width="2" height="2" fill="#FFEB3B"/>
+
+  <!-- Door -->
+  <rect x="16" y="15" width="6" height="11" fill="#5D4037"/>
+  <rect x="16" y="15" width="6" height="1" fill="#4E342E"/>
+  <rect x="21" y="20" width="1" height="1" fill="#757575"/>
+
+  <!-- Anvil sign -->
+  <rect x="24" y="13" width="6" height="4" fill="#424242"/>
+  <rect x="25" y="14" width="4" height="2" fill="#616161"/>
+
+  <!-- Foundation -->
+  <rect x="0" y="26" width="32" height="2" fill="#455A64"/>
+</svg>

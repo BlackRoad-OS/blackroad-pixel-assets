@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 40" width="32" height="40" shape-rendering="crispEdges">
+  <!-- Windmill -->
+
+  <!-- Roof cap -->
+  <rect x="12" y="0" width="8" height="2" fill="#5D4037"/>
+  <rect x="10" y="2" width="12" height="2" fill="#6D4C41"/>
+  <rect x="8" y="4" width="16" height="2" fill="#795548"/>
+
+  <!-- Blades center -->
+  <rect x="14" y="6" width="4" height="4" fill="#8D6E63"/>
+
+  <!-- Blade 1 (up) -->
+  <rect x="15" y="0" width="2" height="6" fill="#D7CCC8"/>
+  <rect x="14" y="1" width="1" height="4" fill="#BCAAA4"/>
+  <rect x="17" y="1" width="1" height="4" fill="#BCAAA4"/>
+
+  <!-- Blade 2 (right) -->
+  <rect x="18" y="7" width="14" height="2" fill="#D7CCC8"/>
+  <rect x="20" y="6" width="10" height="1" fill="#BCAAA4"/>
+  <rect x="20" y="9" width="10" height="1" fill="#BCAAA4"/>
+
+  <!-- Blade 3 (left) -->
+  <rect x="0" y="7" width="14" height="2" fill="#D7CCC8"/>
+  <rect x="2" y="6" width="10" height="1" fill="#BCAAA4"/>
+  <rect x="2" y="9" width="10" height="1" fill="#BCAAA4"/>
+
+  <!-- Tower -->
+  <rect x="8" y="6" width="16" height="32" fill="#ECEFF1"/>
+  <rect x="6" y="10" width="2" height="28" fill="#CFD8DC"/>
+  <rect x="24" y="10" width="2" height="28" fill="#CFD8DC"/>
+
+  <!-- Windows -->
+  <rect x="12" y="14" width="4" height="4" fill="#81D4FA"/>
+  <rect x="14" y="14" width="1" height="4" fill="#4FC3F7"/>
+  <rect x="16" y="14" width="4" height="4" fill="#81D4FA"/>
+
+  <rect x="13" y="24" width="6" height="5" fill="#81D4FA"/>
+  <rect x="16" y="24" width="1" height="5" fill="#4FC3F7"/>
+
+  <!-- Door -->
+  <rect x="12" y="32" width="8" height="8" fill="#5D4037"/>
+  <rect x="12" y="32" width="8" height="1" fill="#4E342E"/>
+  <rect x="16" y="32" width="1" height="8" fill="#4E342E"/>
+  <rect x="13" y="36" width="1" height="1" fill="#FDD835"/>
+
+  <!-- Foundation -->
+  <rect x="4" y="38" width="24" height="2" fill="#757575"/>
+</svg>

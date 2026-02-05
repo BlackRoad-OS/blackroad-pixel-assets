@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Stone slab path - center tile -->
+
+  <!-- Base -->
+  <rect x="0" y="0" width="16" height="16" fill="#78909C"/>
+
+  <!-- Large stones -->
+  <rect x="0" y="0" width="7" height="7" fill="#90A4AE"/>
+  <rect x="8" y="0" width="8" height="7" fill="#607D8B"/>
+  <rect x="0" y="8" width="8" height="8" fill="#607D8B"/>
+  <rect x="9" y="8" width="7" height="8" fill="#90A4AE"/>
+
+  <!-- Mortar lines -->
+  <rect x="7" y="0" width="1" height="16" fill="#546E7A"/>
+  <rect x="0" y="7" width="16" height="1" fill="#546E7A"/>
+
+  <!-- Texture -->
+  <rect x="2" y="2" width="3" height="2" fill="#B0BEC5"/>
+  <rect x="10" y="3" width="2" height="2" fill="#78909C"/>
+  <rect x="3" y="10" width="2" height="2" fill="#78909C"/>
+  <rect x="11" y="11" width="3" height="2" fill="#B0BEC5"/>
+
+  <!-- Cracks -->
+  <rect x="4" y="4" width="1" height="2" fill="#546E7A"/>
+  <rect x="12" y="12" width="2" height="1" fill="#546E7A"/>
+</svg>

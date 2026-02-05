@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 10" width="16" height="10" shape-rendering="crispEdges">
+  <!-- Wooden park bench -->
+
+  <!-- Back rest -->
+  <rect x="1" y="0" width="14" height="3" fill="#8D6E63"/>
+  <rect x="1" y="0" width="14" height="1" fill="#A1887F"/>
+  <rect x="2" y="1" width="12" height="1" fill="#795548"/>
+
+  <!-- Seat -->
+  <rect x="0" y="3" width="16" height="3" fill="#8D6E63"/>
+  <rect x="0" y="3" width="16" height="1" fill="#A1887F"/>
+  <rect x="1" y="4" width="14" height="1" fill="#6D4C41"/>
+
+  <!-- Legs -->
+  <rect x="2" y="6" width="2" height="4" fill="#5D4037"/>
+  <rect x="2" y="6" width="1" height="4" fill="#6D4C41"/>
+  <rect x="12" y="6" width="2" height="4" fill="#5D4037"/>
+  <rect x="12" y="6" width="1" height="4" fill="#6D4C41"/>
+
+  <!-- Arm rests -->
+  <rect x="0" y="2" width="2" height="3" fill="#6D4C41"/>
+  <rect x="14" y="2" width="2" height="3" fill="#6D4C41"/>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 32" width="36" height="32" shape-rendering="crispEdges">
+  <!-- Red Barn -->
+
+  <!-- Roof peak -->
+  <rect x="14" y="0" width="8" height="2" fill="#C62828"/>
+  <rect x="10" y="2" width="16" height="2" fill="#D32F2F"/>
+  <rect x="6" y="4" width="24" height="2" fill="#E53935"/>
+  <rect x="2" y="6" width="32" height="2" fill="#EF5350"/>
+
+  <!-- Hay loft door -->
+  <rect x="14" y="3" width="8" height="5" fill="#5D4037"/>
+  <rect x="15" y="4" width="6" height="3" fill="#3E2723"/>
+  <rect x="17" y="5" width="2" height="1" fill="#FFEB3B"/>
+
+  <!-- Main building -->
+  <rect x="2" y="8" width="32" height="22" fill="#E53935"/>
+
+  <!-- White trim -->
+  <rect x="2" y="8" width="32" height="1" fill="#FFFFFF"/>
+  <rect x="2" y="8" width="1" height="22" fill="#FAFAFA"/>
+  <rect x="33" y="8" width="1" height="22" fill="#FAFAFA"/>
+
+  <!-- X pattern on walls -->
+  <rect x="4" y="10" width="1" height="8" fill="#C62828"/>
+  <rect x="5" y="11" width="1" height="6" fill="#C62828"/>
+  <rect x="6" y="12" width="1" height="4" fill="#C62828"/>
+  <rect x="7" y="13" width="1" height="2" fill="#C62828"/>
+  <rect x="8" y="13" width="1" height="2" fill="#C62828"/>
+  <rect x="9" y="12" width="1" height="4" fill="#C62828"/>
+  <rect x="10" y="11" width="1" height="6" fill="#C62828"/>
+  <rect x="11" y="10" width="1" height="8" fill="#C62828"/>
+
+  <!-- Large barn doors -->
+  <rect x="12" y="14" width="12" height="16" fill="#5D4037"/>
+  <rect x="18" y="14" width="1" height="16" fill="#4E342E"/>
+  <rect x="12" y="14" width="12" height="1" fill="#6D4C41"/>
+  <rect x="15" y="20" width="1" height="1" fill="#757575"/>
+  <rect x="21" y="20" width="1" height="1" fill="#757575"/>
+
+  <!-- Side window -->
+  <rect x="26" y="12" width="6" height="6" fill="#FFEB3B"/>
+  <rect x="29" y="12" width="1" height="6" fill="#FDD835"/>
+  <rect x="26" y="15" width="6" height="1" fill="#FDD835"/>
+
+  <!-- Foundation -->
+  <rect x="0" y="30" width="36" height="2" fill="#757575"/>
+</svg>

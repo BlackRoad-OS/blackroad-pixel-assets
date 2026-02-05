@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 28" width="32" height="28" shape-rendering="crispEdges">
+  <!-- General Store -->
+
+  <!-- Roof -->
+  <rect x="0" y="4" width="32" height="2" fill="#4CAF50"/>
+  <rect x="2" y="2" width="28" height="2" fill="#66BB6A"/>
+  <rect x="4" y="0" width="24" height="2" fill="#81C784"/>
+
+  <!-- Sign -->
+  <rect x="8" y="0" width="16" height="3" fill="#8D6E63"/>
+  <rect x="9" y="1" width="14" height="1" fill="#A1887F"/>
+
+  <!-- Building -->
+  <rect x="0" y="6" width="32" height="20" fill="#FFF8E1"/>
+
+  <!-- Awning -->
+  <rect x="0" y="6" width="32" height="4" fill="#EF5350"/>
+  <rect x="0" y="8" width="4" height="2" fill="#E53935"/>
+  <rect x="8" y="8" width="4" height="2" fill="#E53935"/>
+  <rect x="16" y="8" width="4" height="2" fill="#E53935"/>
+  <rect x="24" y="8" width="4" height="2" fill="#E53935"/>
+
+  <!-- Large shop window -->
+  <rect x="2" y="11" width="12" height="10" fill="#81D4FA"/>
+  <rect x="2" y="11" width="12" height="1" fill="#E1F5FE"/>
+  <rect x="8" y="11" width="1" height="10" fill="#4FC3F7"/>
+  <rect x="2" y="16" width="12" height="1" fill="#4FC3F7"/>
+
+  <!-- Door -->
+  <rect x="16" y="14" width="6" height="12" fill="#5D4037"/>
+  <rect x="16" y="14" width="6" height="1" fill="#6D4C41"/>
+  <rect x="17" y="16" width="4" height="6" fill="#81D4FA"/>
+  <rect x="21" y="20" width="1" height="1" fill="#FDD835"/>
+
+  <!-- Right window -->
+  <rect x="24" y="14" width="6" height="7" fill="#81D4FA"/>
+  <rect x="24" y="14" width="6" height="1" fill="#E1F5FE"/>
+  <rect x="27" y="14" width="1" height="7" fill="#4FC3F7"/>
+
+  <!-- Foundation -->
+  <rect x="0" y="26" width="32" height="2" fill="#757575"/>
+
+  <!-- Welcome mat -->
+  <rect x="16" y="26" width="6" height="1" fill="#8D6E63"/>
+</svg>

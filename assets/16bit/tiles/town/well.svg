@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24" width="20" height="24" shape-rendering="crispEdges">
+  <!-- Stone well -->
+
+  <!-- Roof -->
+  <rect x="4" y="0" width="12" height="2" fill="#8D6E63"/>
+  <rect x="6" y="0" width="8" height="1" fill="#A1887F"/>
+
+  <!-- Roof supports -->
+  <rect x="2" y="2" width="2" height="10" fill="#6D4C41"/>
+  <rect x="16" y="2" width="2" height="10" fill="#6D4C41"/>
+
+  <!-- Crossbar -->
+  <rect x="2" y="2" width="16" height="2" fill="#795548"/>
+  <rect x="3" y="2" width="14" height="1" fill="#8D6E63"/>
+
+  <!-- Rope and bucket -->
+  <rect x="9" y="4" width="1" height="8" fill="#A1887F"/>
+  <rect x="8" y="10" width="4" height="3" fill="#6D4C41"/>
+  <rect x="8" y="10" width="4" height="1" fill="#8D6E63"/>
+
+  <!-- Well wall -->
+  <rect x="2" y="12" width="16" height="10" fill="#78909C"/>
+
+  <!-- Stone texture -->
+  <rect x="3" y="13" width="4" height="3" fill="#90A4AE"/>
+  <rect x="9" y="13" width="5" height="3" fill="#607D8B"/>
+  <rect x="15" y="14" width="2" height="2" fill="#90A4AE"/>
+  <rect x="4" y="17" width="5" height="3" fill="#607D8B"/>
+  <rect x="11" y="17" width="4" height="3" fill="#90A4AE"/>
+
+  <!-- Water inside -->
+  <rect x="6" y="16" width="8" height="2" fill="#1565C0"/>
+  <rect x="7" y="16" width="2" height="1" fill="#42A5F5"/>
+
+  <!-- Base -->
+  <rect x="0" y="22" width="20" height="2" fill="#546E7A"/>
+</svg>

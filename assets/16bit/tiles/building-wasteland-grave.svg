@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" shape-rendering="crispEdges">
+  <!-- Wasteland Grave/Memorial -->
+
+  <!-- Ground -->
+  <rect x="0" y="18" width="24" height="6" fill="#5D4037"/>
+
+  <!-- Dirt mound -->
+  <rect x="4" y="16" width="16" height="4" fill="#6D4C41"/>
+  <rect x="6" y="14" width="12" height="2" fill="#5D4037"/>
+
+  <!-- Wooden cross -->
+  <rect x="10" y="4" width="4" height="14" fill="#5D4037"/>
+  <rect x="11" y="5" width="2" height="12" fill="#6D4C41"/>
+
+  <!-- Cross arm -->
+  <rect x="6" y="6" width="12" height="3" fill="#5D4037"/>
+  <rect x="7" y="7" width="10" height="1" fill="#6D4C41"/>
+
+  <!-- Weathering/damage -->
+  <rect x="10" y="10" width="1" height="2" fill="#4E342E"/>
+  <rect x="14" y="6" width="2" height="1" fill="#4E342E"/>
+
+  <!-- Helmet on cross (soldier memorial) -->
+  <rect x="9" y="2" width="6" height="4" fill="#558B2F"/>
+  <rect x="10" y="3" width="4" height="2" fill="#689F38"/>
+  <rect x="8" y="4" width="8" height="1" fill="#4E342E"/>
+
+  <!-- Small flowers/memorial items -->
+  <rect x="4" y="14" width="2" height="2" fill="#E91E63"/>
+  <rect x="5" y="13" width="1" height="1" fill="#F48FB1"/>
+
+  <rect x="18" y="14" width="2" height="2" fill="#9C27B0"/>
+  <rect x="19" y="13" width="1" height="1" fill="#CE93D8"/>
+
+  <!-- Dog tags hanging -->
+  <rect x="11" y="8" width="2" height="1" fill="#9E9E9E"/>
+  <rect x="11" y="9" width="1" height="2" fill="#757575"/>
+
+  <!-- Grass around -->
+  <rect x="2" y="16" width="1" height="2" fill="#558B2F"/>
+  <rect x="21" y="16" width="1" height="2" fill="#689F38"/>
+  <rect x="8" y="18" width="1" height="1" fill="#7CB342"/>
+  <rect x="15" y="18" width="1" height="1" fill="#558B2F"/>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 32" width="48" height="32" shape-rendering="crispEdges">
+  <!-- Bunker Entrance -->
+
+  <!-- Ground/dirt mound -->
+  <rect x="0" y="16" width="48" height="16" fill="#5D4037"/>
+  <rect x="4" y="14" width="40" height="2" fill="#6D4C41"/>
+  <rect x="8" y="12" width="32" height="2" fill="#5D4037"/>
+  <rect x="12" y="10" width="24" height="2" fill="#4E342E"/>
+
+  <!-- Concrete frame -->
+  <rect x="14" y="12" width="20" height="18" fill="#757575"/>
+  <rect x="15" y="13" width="18" height="16" fill="#616161"/>
+
+  <!-- Blast door -->
+  <rect x="16" y="14" width="16" height="14" fill="#455A64"/>
+  <rect x="17" y="15" width="14" height="12" fill="#37474F"/>
+
+  <!-- Door details -->
+  <rect x="18" y="16" width="6" height="10" fill="#546E7A"/>
+  <rect x="24" y="16" width="6" height="10" fill="#455A64"/>
+
+  <!-- Wheel lock -->
+  <rect x="22" y="19" width="4" height="4" fill="#78909C"/>
+  <rect x="23" y="20" width="2" height="2" fill="#90A4AE"/>
+
+  <!-- Warning stripes -->
+  <rect x="16" y="14" width="16" height="2" fill="#FFC107"/>
+  <rect x="18" y="14" width="2" height="2" fill="#212121"/>
+  <rect x="22" y="14" width="2" height="2" fill="#212121"/>
+  <rect x="26" y="14" width="2" height="2" fill="#212121"/>
+
+  <!-- Rust/decay -->
+  <rect x="28" y="20" width="2" height="4" fill="#8D6E63"/>
+  <rect x="17" y="24" width="3" height="2" fill="#6D4C41"/>
+
+  <!-- Vent pipes -->
+  <rect x="8" y="8" width="4" height="8" fill="#616161"/>
+  <rect x="9" y="6" width="2" height="2" fill="#757575"/>
+  <rect x="36" y="8" width="4" height="8" fill="#616161"/>
+  <rect x="37" y="6" width="2" height="2" fill="#757575"/>
+
+  <!-- Radiation symbol hint -->
+  <rect x="20" y="22" width="1" height="1" fill="#FFC107"/>
+  <rect x="22" y="23" width="1" height="1" fill="#FFC107"/>
+
+  <!-- Overgrown grass -->
+  <rect x="2" y="14" width="1" height="2" fill="#558B2F"/>
+  <rect x="4" y="13" width="1" height="3" fill="#689F38"/>
+  <rect x="43" y="13" width="1" height="3" fill="#558B2F"/>
+  <rect x="45" y="14" width="1" height="2" fill="#689F38"/>
+
+  <!-- Debris -->
+  <rect x="6" y="18" width="3" height="2" fill="#9E9E9E"/>
+  <rect x="40" y="20" width="4" height="2" fill="#757575"/>
+</svg>

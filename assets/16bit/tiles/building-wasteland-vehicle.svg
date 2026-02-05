@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 32" width="48" height="32" shape-rendering="crispEdges">
+  <!-- Abandoned Vehicle (Rusted Car) -->
+
+  <!-- Shadow/ground -->
+  <rect x="4" y="26" width="40" height="6" fill="#4E342E"/>
+
+  <!-- Car body (rusted) -->
+  <rect x="6" y="16" width="36" height="10" fill="#8D6E63"/>
+  <rect x="8" y="14" width="32" height="2" fill="#6D4C41"/>
+
+  <!-- Roof (dented/collapsed) -->
+  <rect x="14" y="8" width="20" height="6" fill="#795548"/>
+  <rect x="16" y="6" width="16" height="2" fill="#6D4C41"/>
+  <rect x="18" y="5" width="12" height="1" fill="#5D4037"/>
+
+  <!-- Dent in roof -->
+  <rect x="22" y="8" width="6" height="2" fill="#5D4037"/>
+
+  <!-- Windows (broken) -->
+  <rect x="16" y="10" width="6" height="4" fill="#37474F"/>
+  <rect x="17" y="11" width="2" height="2" fill="#455A64"/>
+  <rect x="20" y="12" width="1" height="1" fill="#546E7A"/>
+
+  <rect x="26" y="10" width="6" height="4" fill="#37474F"/>
+  <rect x="29" y="11" width="2" height="2" fill="#455A64"/>
+
+  <!-- Broken windshield -->
+  <rect x="14" y="12" width="2" height="2" fill="#455A64"/>
+  <rect x="32" y="12" width="2" height="2" fill="#37474F"/>
+
+  <!-- Wheels (flat/missing) -->
+  <rect x="10" y="22" width="6" height="6" fill="#212121"/>
+  <rect x="11" y="23" width="4" height="4" fill="#424242"/>
+  <rect x="12" y="24" width="2" height="2" fill="#616161"/>
+
+  <rect x="32" y="22" width="6" height="6" fill="#212121"/>
+  <rect x="33" y="23" width="4" height="4" fill="#424242"/>
+  <!-- Missing hubcap -->
+
+  <!-- Rust patches -->
+  <rect x="8" y="18" width="4" height="3" fill="#A1887F"/>
+  <rect x="24" y="16" width="6" height="2" fill="#BCAAA4"/>
+  <rect x="36" y="20" width="4" height="3" fill="#A1887F"/>
+  <rect x="18" y="22" width="3" height="2" fill="#6D4C41"/>
+
+  <!-- Broken headlight -->
+  <rect x="6" y="18" width="2" height="2" fill="#37474F"/>
+  <rect x="40" y="18" width="2" height="2" fill="#455A64"/>
+
+  <!-- Hanging bumper -->
+  <rect x="4" y="24" width="4" height="2" fill="#757575"/>
+  <rect x="5" y="26" width="2" height="2" fill="#616161"/>
+
+  <!-- Vegetation growing -->
+  <rect x="28" y="14" width="1" height="2" fill="#558B2F"/>
+  <rect x="12" y="14" width="1" height="2" fill="#689F38"/>
+  <rect x="38" y="24" width="1" height="2" fill="#7CB342"/>
+
+  <!-- Debris around -->
+  <rect x="2" y="28" width="3" height="2" fill="#9E9E9E"/>
+  <rect x="44" y="26" width="2" height="2" fill="#757575"/>
+</svg>

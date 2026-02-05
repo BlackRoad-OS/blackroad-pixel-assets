@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Survivor Shack (makeshift shelter) -->
+
+  <!-- Foundation/ground -->
+  <rect x="2" y="26" width="28" height="6" fill="#5D4037"/>
+
+  <!-- Main structure (scrap metal/wood) -->
+  <rect x="4" y="12" width="24" height="14" fill="#6D4C41"/>
+  <rect x="5" y="13" width="22" height="12" fill="#8D6E63"/>
+
+  <!-- Patched walls (different materials) -->
+  <rect x="6" y="14" width="6" height="6" fill="#78909C"/>
+  <rect x="14" y="16" width="4" height="6" fill="#455A64"/>
+  <rect x="20" y="14" width="6" height="8" fill="#A1887F"/>
+
+  <!-- Roof (corrugated metal) -->
+  <rect x="2" y="8" width="28" height="5" fill="#546E7A"/>
+  <rect x="4" y="6" width="24" height="2" fill="#607D8B"/>
+  <rect x="8" y="4" width="16" height="2" fill="#455A64"/>
+
+  <!-- Roof texture lines -->
+  <rect x="2" y="10" width="28" height="1" fill="#455A64"/>
+  <rect x="4" y="7" width="24" height="1" fill="#37474F"/>
+
+  <!-- Door (plywood) -->
+  <rect x="12" y="18" width="8" height="8" fill="#5D4037"/>
+  <rect x="13" y="19" width="6" height="6" fill="#4E342E"/>
+  <rect x="18" y="21" width="1" height="2" fill="#757575"/>
+
+  <!-- Boarded window -->
+  <rect x="6" y="16" width="4" height="4" fill="#3E2723"/>
+  <rect x="6" y="17" width="4" height="1" fill="#5D4037"/>
+  <rect x="7" y="16" width="1" height="4" fill="#5D4037"/>
+
+  <!-- Chimney/stovepipe -->
+  <rect x="24" y="2" width="3" height="8" fill="#37474F"/>
+  <rect x="25" y="0" width="2" height="2" fill="#455A64"/>
+  <!-- Smoke -->
+  <rect x="25" y="-2" width="1" height="2" fill="#9E9E9E"/>
+
+  <!-- Tarp/cloth patches -->
+  <rect x="2" y="6" width="4" height="4" fill="#558B2F"/>
+  <rect x="22" y="8" width="4" height="3" fill="#1976D2"/>
+
+  <!-- Sandbags at base -->
+  <rect x="2" y="24" width="4" height="3" fill="#8D6E63"/>
+  <rect x="26" y="24" width="4" height="3" fill="#A1887F"/>
+
+  <!-- Debris around -->
+  <rect x="0" y="28" width="3" height="2" fill="#757575"/>
+  <rect x="28" y="26" width="3" height="2" fill="#546E7A"/>
+</svg>

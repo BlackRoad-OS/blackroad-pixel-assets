@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- Impact Crater -->
+
+  <!-- Outer ground -->
+  <rect x="0" y="0" width="32" height="32" fill="#5D4037"/>
+
+  <!-- Crater rim (raised) -->
+  <rect x="4" y="4" width="24" height="24" fill="#6D4C41"/>
+  <rect x="6" y="6" width="20" height="20" fill="#4E342E"/>
+
+  <!-- Crater depression -->
+  <rect x="8" y="8" width="16" height="16" fill="#3E2723"/>
+  <rect x="10" y="10" width="12" height="12" fill="#2E2E2E"/>
+
+  <!-- Center (darker) -->
+  <rect x="12" y="12" width="8" height="8" fill="#1a1a1a"/>
+  <rect x="14" y="14" width="4" height="4" fill="#0d0d0d"/>
+
+  <!-- Scorch marks radiating out -->
+  <rect x="2" y="14" width="4" height="2" fill="#3E2723"/>
+  <rect x="0" y="15" width="2" height="1" fill="#2E2E2E"/>
+
+  <rect x="26" y="14" width="4" height="2" fill="#3E2723"/>
+  <rect x="30" y="15" width="2" height="1" fill="#2E2E2E"/>
+
+  <rect x="14" y="2" width="2" height="4" fill="#3E2723"/>
+  <rect x="15" y="0" width="1" height="2" fill="#2E2E2E"/>
+
+  <rect x="14" y="26" width="2" height="4" fill="#3E2723"/>
+  <rect x="15" y="30" width="1" height="2" fill="#2E2E2E"/>
+
+  <!-- Debris around crater -->
+  <rect x="4" y="6" width="2" height="2" fill="#757575"/>
+  <rect x="26" y="8" width="2" height="2" fill="#616161"/>
+  <rect x="6" y="24" width="2" height="2" fill="#9E9E9E"/>
+  <rect x="24" y="22" width="2" height="2" fill="#78909C"/>
+
+  <!-- Glass/molten spots -->
+  <rect x="13" y="13" width="2" height="2" fill="#37474F"/>
+  <rect x="17" y="15" width="1" height="1" fill="#455A64"/>
+
+  <!-- Toxic glow in center -->
+  <rect x="15" y="15" width="2" height="2" fill="#558B2F"/>
+  <rect x="14" y="16" width="1" height="1" fill="#7CB342"/>
+
+  <!-- Cracked edges -->
+  <rect x="10" y="8" width="1" height="4" fill="#4E342E"/>
+  <rect x="20" y="10" width="1" height="3" fill="#4E342E"/>
+  <rect x="8" y="18" width="2" height="1" fill="#4E342E"/>
+  <rect x="22" y="16" width="1" height="2" fill="#4E342E"/>
+</svg>

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" shape-rendering="crispEdges">
+  <!-- Farmhouse (Main Player Home) -->
+
+  <!-- Foundation -->
+  <rect x="4" y="40" width="40" height="6" fill="#5D4037"/>
+  <rect x="3" y="41" width="1" height="5" fill="#4E342E"/>
+  <rect x="44" y="41" width="1" height="5" fill="#3E2723"/>
+  <rect x="4" y="46" width="40" height="2" fill="#3E2723"/>
+
+  <!-- Main walls -->
+  <rect x="4" y="22" width="40" height="18" fill="#FFF8E1"/>
+  <rect x="5" y="23" width="38" height="16" fill="#FFFDE7"/>
+
+  <!-- Siding lines -->
+  <rect x="5" y="26" width="38" height="1" fill="#FFF8E1"/>
+  <rect x="5" y="30" width="38" height="1" fill="#FFF8E1"/>
+  <rect x="5" y="34" width="38" height="1" fill="#FFF8E1"/>
+  <rect x="5" y="38" width="38" height="1" fill="#FFF8E1"/>
+
+  <!-- Main roof -->
+  <rect x="2" y="16" width="44" height="7" fill="#C62828"/>
+  <rect x="4" y="13" width="40" height="3" fill="#D32F2F"/>
+  <rect x="6" y="10" width="36" height="3" fill="#C62828"/>
+  <rect x="8" y="8" width="32" height="2" fill="#B71C1C"/>
+  <rect x="12" y="6" width="24" height="2" fill="#C62828"/>
+  <rect x="16" y="5" width="16" height="1" fill="#B71C1C"/>
+
+  <!-- Roof shingle texture -->
+  <rect x="2" y="19" width="44" height="1" fill="#B71C1C"/>
+  <rect x="6" y="12" width="36" height="1" fill="#B71C1C"/>
+
+  <!-- Front door (double) -->
+  <rect x="18" y="28" width="12" height="12" fill="#5D4037"/>
+  <rect x="19" y="29" width="5" height="10" fill="#6D4C41"/>
+  <rect x="24" y="29" width="5" height="10" fill="#4E342E"/>
+  <rect x="23" y="32" width="1" height="4" fill="#F5A623"/>
+  <rect x="24" y="32" width="1" height="4" fill="#D4900F"/>
+
+  <!-- Windows (2 large) -->
+  <rect x="6" y="26" width="8" height="8" fill="#4E342E"/>
+  <rect x="7" y="27" width="6" height="6" fill="#64B5F6"/>
+  <rect x="10" y="27" width="1" height="6" fill="#1976D2"/>
+  <rect x="7" y="30" width="6" height="1" fill="#1976D2"/>
+  <rect x="8" y="28" width="2" height="2" fill="#BBDEFB"/>
+
+  <rect x="34" y="26" width="8" height="8" fill="#4E342E"/>
+  <rect x="35" y="27" width="6" height="6" fill="#64B5F6"/>
+  <rect x="38" y="27" width="1" height="6" fill="#1976D2"/>
+  <rect x="35" y="30" width="6" height="1" fill="#1976D2"/>
+  <rect x="36" y="28" width="2" height="2" fill="#BBDEFB"/>
+
+  <!-- Attic window -->
+  <rect x="21" y="14" width="6" height="5" fill="#4E342E"/>
+  <rect x="22" y="15" width="4" height="3" fill="#64B5F6"/>
+  <rect x="22" y="15" width="2" height="2" fill="#BBDEFB"/>
+
+  <!-- Chimney -->
+  <rect x="36" y="2" width="5" height="12" fill="#757575"/>
+  <rect x="36" y="2" width="2" height="12" fill="#9E9E9E"/>
+  <rect x="40" y="3" width="1" height="11" fill="#616161"/>
+  <rect x="35" y="1" width="7" height="2" fill="#616161"/>
+
+  <!-- Porch -->
+  <rect x="14" y="38" width="20" height="2" fill="#8D6E63"/>
+  <rect x="14" y="40" width="20" height="2" fill="#6D4C41"/>
+  <rect x="14" y="38" width="1" height="2" fill="#A1887F"/>
+  <rect x="33" y="38" width="1" height="2" fill="#5D4037"/>
+
+  <!-- Porch posts -->
+  <rect x="15" y="28" width="2" height="12" fill="#FFFDE7"/>
+  <rect x="31" y="28" width="2" height="12" fill="#FFFDE7"/>
+
+  <!-- Flower boxes -->
+  <rect x="6" y="34" width="8" height="2" fill="#5D4037"/>
+  <rect x="7" y="33" width="2" height="1" fill="#E91E63"/>
+  <rect x="10" y="33" width="2" height="1" fill="#FFEB3B"/>
+
+  <rect x="34" y="34" width="8" height="2" fill="#5D4037"/>
+  <rect x="35" y="33" width="2" height="1" fill="#2979FF"/>
+  <rect x="38" y="33" width="2" height="1" fill="#FF1D6C"/>
+</svg>

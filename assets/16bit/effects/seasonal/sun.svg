@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" width="12" height="12" shape-rendering="crispEdges">
+  <!-- Sun - Summer -->
+
+  <!-- Rays -->
+  <rect x="5" y="0" width="2" height="2" fill="#FFEB3B"/>
+  <rect x="5" y="10" width="2" height="2" fill="#FFEB3B"/>
+  <rect x="0" y="5" width="2" height="2" fill="#FFEB3B"/>
+  <rect x="10" y="5" width="2" height="2" fill="#FFEB3B"/>
+
+  <!-- Diagonal rays -->
+  <rect x="1" y="1" width="2" height="2" fill="#FFF176"/>
+  <rect x="9" y="1" width="2" height="2" fill="#FFF176"/>
+  <rect x="1" y="9" width="2" height="2" fill="#FFF176"/>
+  <rect x="9" y="9" width="2" height="2" fill="#FFF176"/>
+
+  <!-- Core -->
+  <rect x="3" y="3" width="6" height="6" fill="#FDD835"/>
+  <rect x="4" y="4" width="4" height="4" fill="#FFEB3B"/>
+
+  <!-- Highlight -->
+  <rect x="4" y="4" width="2" height="2" fill="#FFF9C4"/>
+</svg>

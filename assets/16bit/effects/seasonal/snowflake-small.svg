@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 4" width="4" height="4" shape-rendering="crispEdges">
+  <!-- Small snowflake - Winter -->
+
+  <!-- Cross -->
+  <rect x="1" y="0" width="2" height="4" fill="#FFFFFF"/>
+  <rect x="0" y="1" width="4" height="2" fill="#FFFFFF"/>
+
+  <!-- Center sparkle -->
+  <rect x="1" y="1" width="2" height="2" fill="#E3F2FD"/>
+</svg>

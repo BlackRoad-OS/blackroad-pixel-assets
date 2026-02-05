@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" width="12" height="12" shape-rendering="crispEdges">
+  <!-- Crescent moon - Night -->
+
+  <!-- Glow -->
+  <rect x="3" y="0" width="6" height="2" fill="#FFF9C4"/>
+  <rect x="1" y="2" width="2" height="2" fill="#FFF9C4"/>
+
+  <!-- Moon body -->
+  <rect x="3" y="1" width="7" height="10" fill="#FFF59D"/>
+  <rect x="2" y="2" width="1" height="8" fill="#FFEE58"/>
+  <rect x="1" y="3" width="1" height="6" fill="#FDD835"/>
+
+  <!-- Crescent shadow (dark side) -->
+  <rect x="7" y="2" width="3" height="8" fill="#37474F"/>
+  <rect x="6" y="3" width="1" height="6" fill="#455A64"/>
+  <rect x="5" y="4" width="1" height="4" fill="#546E7A"/>
+
+  <!-- Craters -->
+  <rect x="3" y="4" width="1" height="1" fill="#FFE082"/>
+  <rect x="4" y="7" width="1" height="1" fill="#FFE082"/>
+</svg>

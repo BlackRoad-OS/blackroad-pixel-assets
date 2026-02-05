@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Water Tile - Edge West (land at left) -->
+
+  <!-- Land/grass edge at left -->
+  <rect x="0" y="0" width="3" height="16" fill="#4CAF50"/>
+  <rect x="0" y="2" width="2" height="2" fill="#43A047"/>
+  <rect x="1" y="10" width="2" height="2" fill="#388E3C"/>
+
+  <!-- Shore/sand transition -->
+  <rect x="3" y="0" width="2" height="16" fill="#C9B896"/>
+  <rect x="3" y="3" width="1" height="2" fill="#D4C9A8"/>
+  <rect x="4" y="10" width="1" height="3" fill="#BBA97A"/>
+
+  <!-- Shallow water -->
+  <rect x="5" y="0" width="2" height="16" fill="#64B5F6"/>
+  <rect x="5" y="2" width="1" height="3" fill="#90CAF9"/>
+  <rect x="6" y="10" width="1" height="2" fill="#42A5F5"/>
+
+  <!-- Main water -->
+  <rect x="7" y="0" width="9" height="16" fill="#2979FF"/>
+  <rect x="9" y="2" width="4" height="2" fill="#1565C0"/>
+  <rect x="10" y="8" width="3" height="2" fill="#0D47A1"/>
+  <rect x="12" y="5" width="4" height="2" fill="#1565C0"/>
+  <rect x="8" y="12" width="3" height="2" fill="#0D47A1"/>
+
+  <!-- Wave highlights -->
+  <rect x="14" y="1" width="2" height="1" fill="#64B5F6"/>
+  <rect x="10" y="6" width="2" height="1" fill="#82B1FF"/>
+  <rect x="14" y="10" width="1" height="1" fill="#E3F2FD"/>
+  <rect x="8" y="4" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="15" y="14" width="1" height="1" fill="#E3F2FD"/>
+</svg>

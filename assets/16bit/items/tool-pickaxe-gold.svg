@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Gold Pickaxe -->
+
+  <!-- Handle -->
+  <rect x="2" y="10" width="2" height="6" fill="#8D6E63"/>
+  <rect x="2" y="11" width="1" height="4" fill="#A1887F"/>
+
+  <!-- Head mount -->
+  <rect x="3" y="8" width="2" height="3" fill="#F5A623"/>
+
+  <!-- Pick head -->
+  <rect x="0" y="4" width="10" height="4" fill="#F5A623"/>
+  <rect x="1" y="5" width="8" height="2" fill="#FFCA28"/>
+
+  <!-- Tips -->
+  <rect x="0" y="2" width="2" height="3" fill="#C68A00"/>
+  <rect x="0" y="2" width="1" height="1" fill="#FFEB3B"/>
+  <rect x="8" y="2" width="2" height="3" fill="#C68A00"/>
+  <rect x="9" y="2" width="1" height="1" fill="#FFEB3B"/>
+</svg>

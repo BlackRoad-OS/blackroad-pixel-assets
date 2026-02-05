@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Silver Coin -->
+
+  <!-- Outer rim -->
+  <rect x="4" y="2" width="8" height="12" fill="#607D8B"/>
+  <rect x="3" y="4" width="1" height="8" fill="#455A64"/>
+  <rect x="12" y="4" width="1" height="8" fill="#455A64"/>
+  <rect x="2" y="6" width="1" height="4" fill="#455A64"/>
+  <rect x="13" y="6" width="1" height="4" fill="#455A64"/>
+
+  <!-- Coin face -->
+  <rect x="4" y="3" width="8" height="10" fill="#90A4AE"/>
+  <rect x="5" y="4" width="6" height="8" fill="#B0BEC5"/>
+
+  <!-- Emblem -->
+  <rect x="6" y="5" width="4" height="6" fill="#607D8B"/>
+  <rect x="7" y="6" width="2" height="4" fill="#455A64"/>
+
+  <!-- Shine -->
+  <rect x="5" y="4" width="2" height="2" fill="#CFD8DC"/>
+  <rect x="5" y="4" width="1" height="1" fill="#ECEFF1"/>
+</svg>

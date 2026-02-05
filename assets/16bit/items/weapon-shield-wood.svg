@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Wooden Shield -->
+
+  <!-- Shield body -->
+  <rect x="2" y="1" width="12" height="12" fill="#6D4C41"/>
+  <rect x="3" y="0" width="10" height="1" fill="#8D6E63"/>
+  <rect x="3" y="13" width="10" height="1" fill="#5D4037"/>
+  <rect x="1" y="3" width="1" height="8" fill="#5D4037"/>
+  <rect x="14" y="3" width="1" height="8" fill="#5D4037"/>
+
+  <!-- Wood planks -->
+  <rect x="3" y="2" width="10" height="10" fill="#8D6E63"/>
+  <rect x="5" y="2" width="1" height="10" fill="#6D4C41"/>
+  <rect x="10" y="2" width="1" height="10" fill="#6D4C41"/>
+
+  <!-- Metal rim -->
+  <rect x="2" y="1" width="12" height="1" fill="#607D8B"/>
+  <rect x="2" y="12" width="12" height="1" fill="#607D8B"/>
+  <rect x="2" y="1" width="1" height="12" fill="#607D8B"/>
+  <rect x="13" y="1" width="1" height="12" fill="#607D8B"/>
+
+  <!-- Center boss -->
+  <rect x="6" y="5" width="4" height="4" fill="#78909C"/>
+  <rect x="7" y="6" width="2" height="2" fill="#90A4AE"/>
+
+  <!-- Bottom point -->
+  <rect x="6" y="14" width="4" height="1" fill="#5D4037"/>
+  <rect x="7" y="15" width="2" height="1" fill="#4E342E"/>
+</svg>

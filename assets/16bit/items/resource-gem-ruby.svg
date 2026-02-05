@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Ruby Gem -->
+
+  <!-- Main gem body -->
+  <rect x="4" y="4" width="8" height="8" fill="#C62828"/>
+  <rect x="5" y="3" width="6" height="1" fill="#D32F2F"/>
+  <rect x="5" y="12" width="6" height="1" fill="#B71C1C"/>
+  <rect x="3" y="5" width="1" height="6" fill="#B71C1C"/>
+  <rect x="12" y="5" width="1" height="6" fill="#B71C1C"/>
+
+  <!-- Top facet -->
+  <rect x="6" y="2" width="4" height="2" fill="#E57373"/>
+  <rect x="7" y="1" width="2" height="1" fill="#EF9A9A"/>
+
+  <!-- Facets -->
+  <rect x="5" y="5" width="3" height="3" fill="#D32F2F"/>
+  <rect x="6" y="6" width="1" height="1" fill="#FFCDD2"/>
+  <rect x="8" y="8" width="3" height="3" fill="#EF5350"/>
+
+  <!-- Bottom point -->
+  <rect x="6" y="13" width="4" height="1" fill="#B71C1C"/>
+  <rect x="7" y="14" width="2" height="1" fill="#7B1FA2"/>
+
+  <!-- Shine -->
+  <rect x="5" y="4" width="1" height="2" fill="#EF9A9A"/>
+</svg>

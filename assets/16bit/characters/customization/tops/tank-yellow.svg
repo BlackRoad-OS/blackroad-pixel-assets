@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Clothing: Tank Top - Yellow -->
+  <rect x="4" y="4" width="8" height="11" fill="#FDD835"/>
+  <rect x="5" y="5" width="6" height="9" fill="#FFEB3B"/>
+  <!-- Straps -->
+  <rect x="5" y="2" width="2" height="3" fill="#FDD835"/>
+  <rect x="9" y="2" width="2" height="3" fill="#FDD835"/>
+  <!-- Neckline (scoop) -->
+  <rect x="6" y="4" width="4" height="2" fill="#FBC02D"/>
+  <!-- Armholes -->
+  <rect x="3" y="4" width="2" height="4" fill="#FBC02D"/>
+  <rect x="11" y="4" width="2" height="4" fill="#FBC02D"/>
+  <!-- Bottom hem -->
+  <rect x="4" y="14" width="8" height="1" fill="#F9A825"/>
+  <!-- Highlight -->
+  <rect x="5" y="6" width="2" height="3" fill="#FFF59D"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Friendly forest spirit (like Kodama) -->
+  <rect width="16" height="16" fill="#2E7D32"/>
+  <!-- Body glow -->
+  <rect x="4" y="4" width="8" height="10" fill="#E8F5E9" opacity="0.5"/>
+  <!-- Body -->
+  <rect x="5" y="5" width="6" height="9" fill="#FAFAFA"/>
+  <rect x="6" y="6" width="4" height="7" fill="#F5F5F5"/>
+  <!-- Head (round) -->
+  <rect x="4" y="2" width="8" height="5" fill="#FAFAFA"/>
+  <rect x="5" y="1" width="6" height="3" fill="#F5F5F5"/>
+  <!-- Eyes (simple dots) -->
+  <rect x="6" y="3" width="1" height="2" fill="#424242"/>
+  <rect x="9" y="3" width="1" height="2" fill="#424242"/>
+  <!-- Mouth (small) -->
+  <rect x="7" y="5" width="2" height="1" fill="#9E9E9E"/>
+  <!-- Leaf on head -->
+  <rect x="8" y="0" width="2" height="2" fill="#66BB6A"/>
+  <rect x="9" y="0" width="1" height="1" fill="#81C784"/>
+  <!-- Arms out -->
+  <rect x="3" y="7" width="2" height="2" fill="#FAFAFA"/>
+  <rect x="11" y="7" width="2" height="2" fill="#FAFAFA"/>
+  <!-- Sparkle effect -->
+  <rect x="4" y="4" width="1" height="1" fill="#FFFFFF"/>
+  <rect x="11" y="6" width="1" height="1" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Clothing: Basic T-Shirt - White -->
+  <!-- Body -->
+  <rect x="4" y="4" width="8" height="10" fill="#FAFAFA"/>
+  <rect x="5" y="5" width="6" height="8" fill="#F5F5F5"/>
+  <!-- Collar -->
+  <rect x="6" y="3" width="4" height="2" fill="#E0E0E0"/>
+  <rect x="7" y="4" width="2" height="1" fill="#FAFAFA"/>
+  <!-- Sleeves -->
+  <rect x="1" y="4" width="4" height="5" fill="#FAFAFA"/>
+  <rect x="11" y="4" width="4" height="5" fill="#FAFAFA"/>
+  <rect x="2" y="5" width="2" height="3" fill="#F5F5F5"/>
+  <rect x="12" y="5" width="2" height="3" fill="#F5F5F5"/>
+  <!-- Bottom hem -->
+  <rect x="4" y="13" width="8" height="1" fill="#E0E0E0"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <rect width="16" height="16" fill="#CE93D8"/>
+  <rect x="2" y="2" width="12" height="12" fill="#E1BEE7"/>
+  <rect x="4" y="4" width="8" height="8" fill="#F3E5F5"/>
+  <!-- Glowing stones -->
+  <rect x="2" y="6" width="2" height="2" fill="#AB47BC"/>
+  <rect x="12" y="8" width="2" height="2" fill="#AB47BC"/>
+  <rect x="7" y="2" width="2" height="2" fill="#9C27B0"/>
+  <rect x="6" y="12" width="2" height="2" fill="#9C27B0"/>
+  <!-- Sparkle -->
+  <rect x="7" y="7" width="2" height="2" fill="#FFFFFF"/>
+</svg>

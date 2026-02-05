@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Hair: Pixie Cut - Green -->
+  <rect x="3" y="0" width="10" height="5" fill="#388E3C"/>
+  <rect x="2" y="2" width="2" height="4" fill="#4CAF50"/>
+  <rect x="12" y="2" width="2" height="4" fill="#4CAF50"/>
+  <!-- Short layers -->
+  <rect x="4" y="-1" width="3" height="2" fill="#4CAF50"/>
+  <rect x="9" y="-1" width="3" height="2" fill="#388E3C"/>
+  <!-- Side swept bangs -->
+  <rect x="3" y="3" width="6" height="3" fill="#4CAF50"/>
+  <rect x="4" y="4" width="4" height="2" fill="#66BB6A"/>
+  <!-- Highlight -->
+  <rect x="5" y="1" width="2" height="2" fill="#81C784"/>
+  <rect x="4" y="4" width="1" height="1" fill="#A5D6A7"/>
+</svg>

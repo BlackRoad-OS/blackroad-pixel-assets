@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Green Slime (Meadowlands Basic Enemy) -->
+
+  <!-- Body -->
+  <rect x="3" y="6" width="10" height="8" fill="#4CAF50"/>
+  <rect x="4" y="4" width="8" height="2" fill="#66BB6A"/>
+  <rect x="5" y="3" width="6" height="1" fill="#81C784"/>
+  <rect x="2" y="8" width="1" height="4" fill="#388E3C"/>
+  <rect x="13" y="8" width="1" height="4" fill="#2E7D32"/>
+
+  <!-- Gooey bottom edge -->
+  <rect x="4" y="14" width="3" height="1" fill="#4CAF50"/>
+  <rect x="9" y="14" width="3" height="1" fill="#4CAF50"/>
+  <rect x="6" y="15" width="1" height="1" fill="#66BB6A"/>
+  <rect x="10" y="15" width="1" height="1" fill="#66BB6A"/>
+
+  <!-- Shine/highlight -->
+  <rect x="5" y="5" width="3" height="2" fill="#A5D6A7"/>
+  <rect x="6" y="4" width="2" height="1" fill="#C8E6C9"/>
+  <rect x="6" y="5" width="1" height="1" fill="#E8F5E9"/>
+
+  <!-- Eyes -->
+  <rect x="5" y="7" width="2" height="3" fill="#FFFFFF"/>
+  <rect x="9" y="7" width="2" height="3" fill="#FFFFFF"/>
+  <!-- Pupils -->
+  <rect x="6" y="8" width="1" height="2" fill="#1B5E20"/>
+  <rect x="10" y="8" width="1" height="2" fill="#1B5E20"/>
+  <!-- Eye shine -->
+  <rect x="5" y="7" width="1" height="1" fill="#E8F5E9"/>
+  <rect x="9" y="7" width="1" height="1" fill="#E8F5E9"/>
+
+  <!-- Mouth (simple smile) -->
+  <rect x="6" y="11" width="4" height="1" fill="#2E7D32"/>
+  <rect x="7" y="12" width="2" height="1" fill="#1B5E20"/>
+
+  <!-- Shadow -->
+  <rect x="4" y="14" width="8" height="1" fill="#388E3C"/>
+</svg>

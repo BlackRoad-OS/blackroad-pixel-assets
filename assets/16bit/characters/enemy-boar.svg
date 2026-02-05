@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 16" width="20" height="16" shape-rendering="crispEdges">
+  <!-- Wild Boar -->
+
+  <!-- Body -->
+  <rect x="4" y="6" width="12" height="7" fill="#5D4037"/>
+  <rect x="5" y="5" width="10" height="1" fill="#6D4C41"/>
+  <rect x="3" y="8" width="1" height="4" fill="#4E342E"/>
+  <rect x="16" y="8" width="1" height="4" fill="#4E342E"/>
+
+  <!-- Body fur texture -->
+  <rect x="6" y="7" width="2" height="1" fill="#6D4C41"/>
+  <rect x="10" y="8" width="2" height="1" fill="#6D4C41"/>
+  <rect x="8" y="10" width="3" height="1" fill="#6D4C41"/>
+
+  <!-- Head -->
+  <rect x="1" y="6" width="5" height="6" fill="#6D4C41"/>
+  <rect x="0" y="7" width="2" height="4" fill="#5D4037"/>
+
+  <!-- Snout -->
+  <rect x="0" y="8" width="3" height="3" fill="#8D6E63"/>
+  <rect x="0" y="9" width="2" height="1" fill="#A1887F"/>
+  <!-- Nostrils -->
+  <rect x="0" y="9" width="1" height="1" fill="#3E2723"/>
+  <rect x="0" y="10" width="1" height="1" fill="#3E2723"/>
+
+  <!-- Tusks -->
+  <rect x="0" y="11" width="1" height="2" fill="#FFFFFF"/>
+  <rect x="1" y="12" width="1" height="1" fill="#FFFFFF"/>
+
+  <!-- Ears -->
+  <rect x="2" y="4" width="2" height="2" fill="#5D4037"/>
+  <rect x="3" y="3" width="1" height="1" fill="#6D4C41"/>
+  <rect x="5" y="4" width="2" height="2" fill="#5D4037"/>
+  <rect x="6" y="3" width="1" height="1" fill="#6D4C41"/>
+
+  <!-- Eye (angry) -->
+  <rect x="2" y="7" width="2" height="2" fill="#FF1D6C"/>
+  <rect x="3" y="7" width="1" height="1" fill="#FFFFFF"/>
+
+  <!-- Legs -->
+  <rect x="5" y="12" width="2" height="4" fill="#4E342E"/>
+  <rect x="6" y="13" width="1" height="2" fill="#5D4037"/>
+  <rect x="13" y="12" width="2" height="4" fill="#4E342E"/>
+  <rect x="14" y="13" width="1" height="2" fill="#5D4037"/>
+
+  <!-- Hooves -->
+  <rect x="5" y="15" width="2" height="1" fill="#3E2723"/>
+  <rect x="13" y="15" width="2" height="1" fill="#3E2723"/>
+
+  <!-- Tail -->
+  <rect x="16" y="6" width="2" height="1" fill="#5D4037"/>
+  <rect x="17" y="5" width="1" height="1" fill="#6D4C41"/>
+  <rect x="18" y="4" width="1" height="2" fill="#4E342E"/>
+
+  <!-- Mane/bristles -->
+  <rect x="6" y="4" width="4" height="1" fill="#3E2723"/>
+  <rect x="8" y="3" width="2" height="1" fill="#4E342E"/>
+</svg>

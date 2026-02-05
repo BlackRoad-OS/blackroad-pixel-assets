@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Metal/Chain Link Fence -->
+
+  <!-- Posts -->
+  <rect x="1" y="2" width="2" height="14" fill="#546E7A"/>
+  <rect x="2" y="3" width="1" height="12" fill="#78909C"/>
+
+  <rect x="13" y="2" width="2" height="14" fill="#546E7A"/>
+  <rect x="13" y="3" width="1" height="12" fill="#455A64"/>
+
+  <!-- Post caps -->
+  <rect x="0" y="1" width="4" height="2" fill="#455A64"/>
+  <rect x="12" y="1" width="4" height="2" fill="#455A64"/>
+
+  <!-- Chain link pattern -->
+  <rect x="3" y="4" width="10" height="10" fill="#90A4AE"/>
+
+  <!-- Diamond mesh pattern -->
+  <rect x="4" y="5" width="2" height="2" fill="#B0BEC5"/>
+  <rect x="8" y="5" width="2" height="2" fill="#B0BEC5"/>
+  <rect x="6" y="7" width="2" height="2" fill="#B0BEC5"/>
+  <rect x="10" y="7" width="2" height="2" fill="#B0BEC5"/>
+  <rect x="4" y="9" width="2" height="2" fill="#B0BEC5"/>
+  <rect x="8" y="9" width="2" height="2" fill="#B0BEC5"/>
+  <rect x="6" y="11" width="2" height="2" fill="#B0BEC5"/>
+  <rect x="10" y="11" width="2" height="2" fill="#B0BEC5"/>
+
+  <!-- Wire highlights -->
+  <rect x="5" y="5" width="1" height="1" fill="#CFD8DC"/>
+  <rect x="9" y="9" width="1" height="1" fill="#CFD8DC"/>
+
+  <!-- Top rail -->
+  <rect x="3" y="3" width="10" height="2" fill="#607D8B"/>
+  <rect x="3" y="4" width="10" height="1" fill="#78909C"/>
+</svg>

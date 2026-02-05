@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 24" width="16" height="24" shape-rendering="crispEdges">
+  <!-- Mailbox -->
+
+  <!-- Post -->
+  <rect x="6" y="12" width="4" height="12" fill="#6D4C41"/>
+  <rect x="7" y="14" width="2" height="8" fill="#8D6E63"/>
+
+  <!-- Base -->
+  <rect x="4" y="22" width="8" height="2" fill="#5D4037"/>
+
+  <!-- Mailbox body -->
+  <rect x="2" y="4" width="12" height="8" fill="#2979FF"/>
+  <rect x="3" y="5" width="10" height="6" fill="#1565C0"/>
+
+  <!-- Rounded top -->
+  <rect x="3" y="2" width="10" height="3" fill="#2979FF"/>
+  <rect x="4" y="1" width="8" height="1" fill="#1976D2"/>
+
+  <!-- Door -->
+  <rect x="3" y="6" width="10" height="5" fill="#1565C0"/>
+  <rect x="4" y="7" width="8" height="3" fill="#0D47A1"/>
+  <!-- Handle -->
+  <rect x="11" y="8" width="1" height="1" fill="#FFCA62"/>
+
+  <!-- Flag (up position - mail!) -->
+  <rect x="12" y="2" width="2" height="6" fill="#C62828"/>
+  <rect x="13" y="3" width="1" height="4" fill="#E53935"/>
+
+  <!-- Flag pole -->
+  <rect x="13" y="4" width="1" height="4" fill="#757575"/>
+
+  <!-- Post cap -->
+  <rect x="5" y="10" width="6" height="2" fill="#5D4037"/>
+
+  <!-- Decorative details -->
+  <rect x="6" y="2" width="4" height="1" fill="#64B5F6"/>
+
+  <!-- Address number hint -->
+  <rect x="5" y="5" width="3" height="1" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 32" width="16" height="32" shape-rendering="crispEdges">
+  <!-- Rustic Street Lamp -->
+
+  <!-- Base -->
+  <rect x="4" y="28" width="8" height="4" fill="#5D4037"/>
+  <rect x="5" y="27" width="6" height="1" fill="#6D4C41"/>
+
+  <!-- Pole -->
+  <rect x="6" y="10" width="4" height="18" fill="#4E342E"/>
+  <rect x="7" y="12" width="2" height="14" fill="#5D4037"/>
+
+  <!-- Decorative ring -->
+  <rect x="5" y="22" width="6" height="2" fill="#3E2723"/>
+  <rect x="5" y="14" width="6" height="2" fill="#3E2723"/>
+
+  <!-- Lamp housing -->
+  <rect x="3" y="4" width="10" height="7" fill="#37474F"/>
+  <rect x="4" y="5" width="8" height="5" fill="#455A64"/>
+
+  <!-- Glass panels (glowing) -->
+  <rect x="5" y="6" width="6" height="3" fill="#FFCA62"/>
+  <rect x="6" y="6" width="4" height="2" fill="#FFDC96"/>
+  <rect x="7" y="7" width="2" height="1" fill="#FFFFFF"/>
+
+  <!-- Top cap -->
+  <rect x="4" y="2" width="8" height="3" fill="#3E2723"/>
+  <rect x="5" y="1" width="6" height="1" fill="#4E342E"/>
+  <rect x="6" y="0" width="4" height="1" fill="#5D4037"/>
+
+  <!-- Light glow below -->
+  <rect x="4" y="10" width="8" height="2" fill="#FFCA62"/>
+  <rect x="5" y="11" width="6" height="1" fill="#FFF8E1"/>
+
+  <!-- Arm bracket -->
+  <rect x="2" y="8" width="3" height="2" fill="#4E342E"/>
+  <rect x="11" y="8" width="3" height="2" fill="#4E342E"/>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 16" width="32" height="16" shape-rendering="crispEdges">
+  <!-- Metal Bridge (Modern/Neon) -->
+
+  <!-- Water/void underneath -->
+  <rect x="0" y="12" width="32" height="4" fill="#0D47A1"/>
+  <rect x="6" y="13" width="4" height="1" fill="#1565C0"/>
+  <rect x="22" y="14" width="4" height="1" fill="#1565C0"/>
+
+  <!-- Support structure -->
+  <rect x="2" y="6" width="4" height="10" fill="#37474F"/>
+  <rect x="3" y="8" width="2" height="6" fill="#455A64"/>
+
+  <rect x="26" y="6" width="4" height="10" fill="#37474F"/>
+  <rect x="27" y="8" width="2" height="6" fill="#263238"/>
+
+  <!-- Main deck (grated) -->
+  <rect x="0" y="6" width="32" height="4" fill="#546E7A"/>
+  <rect x="0" y="7" width="32" height="2" fill="#607D8B"/>
+
+  <!-- Grate pattern -->
+  <rect x="6" y="6" width="1" height="4" fill="#455A64"/>
+  <rect x="10" y="6" width="1" height="4" fill="#455A64"/>
+  <rect x="14" y="6" width="1" height="4" fill="#455A64"/>
+  <rect x="18" y="6" width="1" height="4" fill="#455A64"/>
+  <rect x="22" y="6" width="1" height="4" fill="#455A64"/>
+
+  <!-- Side rails (neon lit) -->
+  <rect x="0" y="4" width="32" height="2" fill="#37474F"/>
+  <rect x="0" y="5" width="32" height="1" fill="#2979FF"/>
+
+  <!-- Rail posts -->
+  <rect x="8" y="2" width="2" height="5" fill="#455A64"/>
+  <rect x="15" y="2" width="2" height="5" fill="#455A64"/>
+  <rect x="22" y="2" width="2" height="5" fill="#455A64"/>
+
+  <!-- Neon accents -->
+  <rect x="8" y="1" width="2" height="1" fill="#2979FF"/>
+  <rect x="15" y="1" width="2" height="1" fill="#FF1D6C"/>
+  <rect x="22" y="1" width="2" height="1" fill="#2979FF"/>
+
+  <!-- Under-bridge lights -->
+  <rect x="12" y="10" width="2" height="1" fill="#2979FF"/>
+  <rect x="18" y="10" width="2" height="1" fill="#2979FF"/>
+</svg>

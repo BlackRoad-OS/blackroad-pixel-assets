@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Striped Wallpaper - Classic interior -->
+
+  <!-- Cream base -->
+  <rect x="0" y="0" width="16" height="16" fill="#EFEBE9"/>
+
+  <!-- Stripes (burgundy) -->
+  <rect x="0" y="0" width="2" height="16" fill="#880E4F"/>
+  <rect x="4" y="0" width="2" height="16" fill="#880E4F"/>
+  <rect x="8" y="0" width="2" height="16" fill="#880E4F"/>
+  <rect x="12" y="0" width="2" height="16" fill="#880E4F"/>
+
+  <!-- Stripe highlights -->
+  <rect x="0" y="0" width="1" height="16" fill="#AD1457"/>
+  <rect x="4" y="0" width="1" height="16" fill="#AD1457"/>
+  <rect x="8" y="0" width="1" height="16" fill="#AD1457"/>
+  <rect x="12" y="0" width="1" height="16" fill="#AD1457"/>
+
+  <!-- Gold accent line -->
+  <rect x="2" y="0" width="1" height="16" fill="#F5A623"/>
+  <rect x="6" y="0" width="1" height="16" fill="#F5A623"/>
+  <rect x="10" y="0" width="1" height="16" fill="#F5A623"/>
+  <rect x="14" y="0" width="1" height="16" fill="#F5A623"/>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Tech Grid Floor - Neon District -->
+
+  <!-- Dark base -->
+  <rect x="0" y="0" width="16" height="16" fill="#1A1A1A"/>
+
+  <!-- Grid lines -->
+  <rect x="0" y="0" width="16" height="1" fill="#2979FF"/>
+  <rect x="0" y="4" width="16" height="1" fill="#2979FF"/>
+  <rect x="0" y="8" width="16" height="1" fill="#2979FF"/>
+  <rect x="0" y="12" width="16" height="1" fill="#2979FF"/>
+
+  <rect x="0" y="0" width="1" height="16" fill="#2979FF"/>
+  <rect x="4" y="0" width="1" height="16" fill="#2979FF"/>
+  <rect x="8" y="0" width="1" height="16" fill="#2979FF"/>
+  <rect x="12" y="0" width="1" height="16" fill="#2979FF"/>
+
+  <!-- Grid intersections (glow) -->
+  <rect x="0" y="0" width="1" height="1" fill="#82B1FF"/>
+  <rect x="4" y="0" width="1" height="1" fill="#82B1FF"/>
+  <rect x="8" y="0" width="1" height="1" fill="#82B1FF"/>
+  <rect x="12" y="0" width="1" height="1" fill="#82B1FF"/>
+  <rect x="0" y="4" width="1" height="1" fill="#82B1FF"/>
+  <rect x="4" y="4" width="1" height="1" fill="#82B1FF"/>
+  <rect x="8" y="4" width="1" height="1" fill="#82B1FF"/>
+  <rect x="12" y="4" width="1" height="1" fill="#82B1FF"/>
+  <rect x="0" y="8" width="1" height="1" fill="#82B1FF"/>
+  <rect x="4" y="8" width="1" height="1" fill="#82B1FF"/>
+  <rect x="8" y="8" width="1" height="1" fill="#82B1FF"/>
+  <rect x="12" y="8" width="1" height="1" fill="#82B1FF"/>
+  <rect x="0" y="12" width="1" height="1" fill="#82B1FF"/>
+  <rect x="4" y="12" width="1" height="1" fill="#82B1FF"/>
+  <rect x="8" y="12" width="1" height="1" fill="#82B1FF"/>
+  <rect x="12" y="12" width="1" height="1" fill="#82B1FF"/>
+
+  <!-- Circuit details -->
+  <rect x="2" y="2" width="1" height="1" fill="#37474F"/>
+  <rect x="6" y="6" width="1" height="1" fill="#37474F"/>
+  <rect x="10" y="2" width="1" height="1" fill="#37474F"/>
+  <rect x="14" y="6" width="1" height="1" fill="#37474F"/>
+  <rect x="2" y="10" width="1" height="1" fill="#37474F"/>
+  <rect x="6" y="14" width="1" height="1" fill="#37474F"/>
+  <rect x="10" y="10" width="1" height="1" fill="#37474F"/>
+  <rect x="14" y="14" width="1" height="1" fill="#37474F"/>
+</svg>

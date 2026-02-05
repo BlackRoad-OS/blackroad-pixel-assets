@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24" width="20" height="24" shape-rendering="crispEdges">
+  <!-- Scrap Golem (Junk construct) -->
+
+  <!-- Body (piled scrap) -->
+  <rect x="5" y="8" width="10" height="12" fill="#616161"/>
+  <rect x="6" y="7" width="8" height="1" fill="#757575"/>
+  <rect x="4" y="10" width="1" height="8" fill="#424242"/>
+  <rect x="15" y="10" width="1" height="8" fill="#424242"/>
+
+  <!-- Scrap texture -->
+  <rect x="6" y="9" width="3" height="2" fill="#8D6E63"/>
+  <rect x="11" y="10" width="3" height="3" fill="#78909C"/>
+  <rect x="7" y="13" width="2" height="2" fill="#A1887F"/>
+  <rect x="10" y="15" width="3" height="2" fill="#5D4037"/>
+  <rect x="6" y="16" width="2" height="2" fill="#90A4AE"/>
+
+  <!-- Head (rusty bucket/helmet) -->
+  <rect x="6" y="2" width="8" height="6" fill="#8D6E63"/>
+  <rect x="7" y="1" width="6" height="1" fill="#A1887F"/>
+  <rect x="5" y="4" width="1" height="3" fill="#6D4C41"/>
+  <rect x="14" y="4" width="1" height="3" fill="#5D4037"/>
+
+  <!-- Eyes (glowing through helmet holes) -->
+  <rect x="7" y="4" width="2" height="2" fill="#212121"/>
+  <rect x="7" y="4" width="1" height="1" fill="#FFEB3B"/>
+  <rect x="11" y="4" width="2" height="2" fill="#212121"/>
+  <rect x="12" y="4" width="1" height="1" fill="#FFEB3B"/>
+
+  <!-- Mouth grate -->
+  <rect x="8" y="6" width="4" height="1" fill="#212121"/>
+
+  <!-- Arms (pipes and metal) -->
+  <rect x="1" y="10" width="4" height="8" fill="#546E7A"/>
+  <rect x="2" y="9" width="2" height="1" fill="#607D8B"/>
+  <rect x="0" y="14" width="2" height="4" fill="#455A64"/>
+  <!-- Hand (claw) -->
+  <rect x="0" y="17" width="1" height="2" fill="#37474F"/>
+  <rect x="1" y="18" width="1" height="2" fill="#37474F"/>
+  <rect x="2" y="17" width="1" height="2" fill="#37474F"/>
+
+  <rect x="15" y="10" width="4" height="8" fill="#546E7A"/>
+  <rect x="16" y="9" width="2" height="1" fill="#607D8B"/>
+  <rect x="18" y="14" width="2" height="4" fill="#455A64"/>
+  <!-- Hand -->
+  <rect x="17" y="17" width="1" height="2" fill="#37474F"/>
+  <rect x="18" y="18" width="1" height="2" fill="#37474F"/>
+  <rect x="19" y="17" width="1" height="2" fill="#37474F"/>
+
+  <!-- Legs (metal beams) -->
+  <rect x="6" y="18" width="3" height="6" fill="#455A64"/>
+  <rect x="7" y="20" width="1" height="3" fill="#546E7A"/>
+  <rect x="11" y="18" width="3" height="6" fill="#455A64"/>
+  <rect x="12" y="20" width="1" height="3" fill="#546E7A"/>
+
+  <!-- Rust patches -->
+  <rect x="8" y="2" width="2" height="1" fill="#6D4C41"/>
+  <rect x="5" y="12" width="1" height="2" fill="#A1887F"/>
+  <rect x="14" y="14" width="1" height="2" fill="#8D6E63"/>
+
+  <!-- Sparks -->
+  <rect x="3" y="11" width="1" height="1" fill="#FFC107"/>
+  <rect x="16" y="13" width="1" height="1" fill="#FFEB3B"/>
+
+  <!-- Wires dangling -->
+  <rect x="9" y="7" width="1" height="2" fill="#F44336"/>
+  <rect x="10" y="6" width="1" height="2" fill="#2979FF"/>
+</svg>

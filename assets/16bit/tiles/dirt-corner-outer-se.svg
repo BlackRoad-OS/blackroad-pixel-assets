@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Dirt Tile - Outer Corner SE (grass at bottom-right corner) -->
+
+  <!-- Main dirt -->
+  <rect x="0" y="0" width="10" height="10" fill="#8D6E63"/>
+  <rect x="2" y="1" width="2" height="2" fill="#795548"/>
+  <rect x="0" y="4" width="2" height="2" fill="#6D4C41"/>
+  <rect x="5" y="5" width="3" height="2" fill="#795548"/>
+  <rect x="7" y="8" width="2" height="1" fill="#6D4C41"/>
+
+  <!-- Pebbles -->
+  <rect x="4" y="3" width="1" height="1" fill="#5D4037"/>
+  <rect x="1" y="7" width="1" height="1" fill="#4E342E"/>
+
+  <!-- Curved transition -->
+  <rect x="10" y="8" width="2" height="2" fill="#6B8E4E"/>
+  <rect x="8" y="10" width="2" height="2" fill="#6B8E4E"/>
+  <rect x="0" y="10" width="8" height="2" fill="#6B8E4E"/>
+  <rect x="10" y="0" width="2" height="8" fill="#6B8E4E"/>
+
+  <!-- Grass edges -->
+  <rect x="12" y="0" width="4" height="10" fill="#4CAF50"/>
+  <rect x="13" y="2" width="1" height="2" fill="#43A047"/>
+  <rect x="14" y="0" width="2" height="2" fill="#388E3C"/>
+  <rect x="0" y="12" width="10" height="4" fill="#4CAF50"/>
+  <rect x="2" y="13" width="2" height="1" fill="#43A047"/>
+  <rect x="0" y="14" width="2" height="2" fill="#388E3C"/>
+
+  <!-- Grass corner -->
+  <rect x="10" y="10" width="6" height="6" fill="#4CAF50"/>
+  <rect x="12" y="12" width="2" height="2" fill="#43A047"/>
+  <rect x="10" y="11" width="1" height="1" fill="#388E3C"/>
+  <rect x="13" y="14" width="1" height="1" fill="#66BB6A"/>
+</svg>

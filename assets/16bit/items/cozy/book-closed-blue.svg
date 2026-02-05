@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 12" width="10" height="12" shape-rendering="crispEdges">
+  <!-- Closed book - Blue cover -->
+
+  <!-- Cover -->
+  <rect x="1" y="1" width="8" height="10" fill="#1565C0"/>
+  <rect x="0" y="2" width="1" height="8" fill="#0D47A1"/>
+
+  <!-- Spine -->
+  <rect x="1" y="1" width="1" height="10" fill="#0D47A1"/>
+
+  <!-- Pages -->
+  <rect x="2" y="2" width="6" height="8" fill="#FAFAFA"/>
+  <rect x="2" y="2" width="6" height="1" fill="#EEEEEE"/>
+  <rect x="2" y="9" width="6" height="1" fill="#E0E0E0"/>
+
+  <!-- Page lines -->
+  <rect x="8" y="3" width="1" height="1" fill="#E0E0E0"/>
+  <rect x="8" y="5" width="1" height="1" fill="#E0E0E0"/>
+  <rect x="8" y="7" width="1" height="1" fill="#E0E0E0"/>
+
+  <!-- Silver decoration -->
+  <rect x="3" y="5" width="4" height="2" fill="#BDBDBD"/>
+</svg>

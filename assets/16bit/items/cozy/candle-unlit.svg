@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 12" width="8" height="12" shape-rendering="crispEdges">
+  <!-- Unlit candle -->
+
+  <!-- Wick -->
+  <rect x="3" y="0" width="1" height="2" fill="#424242"/>
+
+  <!-- Wax -->
+  <rect x="2" y="2" width="4" height="7" fill="#ECEFF1"/>
+  <rect x="1" y="3" width="1" height="5" fill="#CFD8DC"/>
+  <rect x="6" y="3" width="1" height="5" fill="#CFD8DC"/>
+
+  <!-- Highlight -->
+  <rect x="2" y="3" width="1" height="3" fill="#FAFAFA"/>
+
+  <!-- Holder -->
+  <rect x="1" y="8" width="6" height="2" fill="#8D6E63"/>
+  <rect x="0" y="9" width="8" height="2" fill="#6D4C41"/>
+  <rect x="1" y="9" width="6" height="1" fill="#A1887F"/>
+</svg>

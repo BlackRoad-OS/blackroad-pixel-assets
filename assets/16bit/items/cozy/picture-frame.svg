@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 14" width="12" height="14" shape-rendering="crispEdges">
+  <!-- Picture frame with landscape -->
+
+  <!-- Frame -->
+  <rect x="0" y="0" width="12" height="14" fill="#8D6E63"/>
+  <rect x="1" y="1" width="10" height="12" fill="#6D4C41"/>
+  <rect x="2" y="2" width="8" height="10" fill="#A1887F"/>
+
+  <!-- Picture area -->
+  <rect x="3" y="3" width="6" height="8" fill="#81D4FA"/>
+
+  <!-- Landscape - sky -->
+  <rect x="3" y="3" width="6" height="3" fill="#4FC3F7"/>
+
+  <!-- Sun -->
+  <rect x="7" y="4" width="1" height="1" fill="#FFEB3B"/>
+
+  <!-- Mountains -->
+  <rect x="3" y="5" width="2" height="2" fill="#7E57C2"/>
+  <rect x="5" y="6" width="3" height="1" fill="#9575CD"/>
+
+  <!-- Trees -->
+  <rect x="3" y="7" width="6" height="4" fill="#4CAF50"/>
+  <rect x="4" y="7" width="1" height="1" fill="#66BB6A"/>
+  <rect x="6" y="8" width="1" height="1" fill="#388E3C"/>
+</svg>

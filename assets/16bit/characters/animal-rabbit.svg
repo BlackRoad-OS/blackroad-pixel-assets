@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 14" width="12" height="14" shape-rendering="crispEdges">
+  <!-- Rabbit - Peaceful animal -->
+
+  <!-- Body -->
+  <rect x="3" y="7" width="6" height="5" fill="#BCAAA4"/>
+  <rect x="2" y="8" width="1" height="3" fill="#A1887F"/>
+  <rect x="9" y="8" width="1" height="3" fill="#A1887F"/>
+
+  <!-- Belly -->
+  <rect x="4" y="9" width="4" height="2" fill="#D7CCC8"/>
+
+  <!-- Head -->
+  <rect x="4" y="4" width="5" height="4" fill="#BCAAA4"/>
+  <rect x="3" y="5" width="1" height="2" fill="#A1887F"/>
+  <rect x="9" y="5" width="1" height="2" fill="#A1887F"/>
+
+  <!-- Ears (long!) -->
+  <rect x="4" y="0" width="2" height="5" fill="#BCAAA4"/>
+  <rect x="5" y="1" width="1" height="3" fill="#FFCCBC"/>
+  <rect x="7" y="0" width="2" height="5" fill="#BCAAA4"/>
+  <rect x="7" y="1" width="1" height="3" fill="#FFCCBC"/>
+
+  <!-- Eyes -->
+  <rect x="5" y="5" width="1" height="1" fill="#212121"/>
+  <rect x="7" y="5" width="1" height="1" fill="#212121"/>
+
+  <!-- Nose -->
+  <rect x="6" y="6" width="1" height="1" fill="#FF8A80"/>
+
+  <!-- Whiskers implied by cheeks -->
+  <rect x="4" y="6" width="1" height="1" fill="#D7CCC8"/>
+  <rect x="8" y="6" width="1" height="1" fill="#D7CCC8"/>
+
+  <!-- Front paws -->
+  <rect x="3" y="11" width="2" height="2" fill="#A1887F"/>
+  <rect x="7" y="11" width="2" height="2" fill="#A1887F"/>
+
+  <!-- Back paws (big!) -->
+  <rect x="2" y="12" width="3" height="2" fill="#BCAAA4"/>
+  <rect x="7" y="12" width="3" height="2" fill="#BCAAA4"/>
+
+  <!-- Fluffy tail -->
+  <rect x="0" y="8" width="3" height="3" fill="#D7CCC8"/>
+  <rect x="1" y="9" width="1" height="1" fill="#EFEBE9"/>
+</svg>

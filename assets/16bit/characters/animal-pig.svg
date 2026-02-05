@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 12" width="16" height="12" shape-rendering="crispEdges">
+  <!-- Pig - Peaceful farm animal -->
+
+  <!-- Body -->
+  <rect x="3" y="4" width="10" height="6" fill="#FFAB91"/>
+  <rect x="2" y="5" width="1" height="4" fill="#FF8A65"/>
+  <rect x="13" y="5" width="1" height="4" fill="#FF8A65"/>
+
+  <!-- Belly (lighter) -->
+  <rect x="5" y="7" width="6" height="2" fill="#FFCCBC"/>
+
+  <!-- Head -->
+  <rect x="11" y="2" width="4" height="5" fill="#FFAB91"/>
+  <rect x="10" y="3" width="1" height="3" fill="#FF8A65"/>
+
+  <!-- Ears -->
+  <rect x="11" y="0" width="2" height="3" fill="#FF8A65"/>
+  <rect x="12" y="1" width="1" height="1" fill="#FFCCBC"/>
+  <rect x="14" y="0" width="2" height="3" fill="#FF8A65"/>
+  <rect x="14" y="1" width="1" height="1" fill="#FFCCBC"/>
+
+  <!-- Eyes -->
+  <rect x="12" y="3" width="1" height="1" fill="#212121"/>
+  <rect x="14" y="3" width="1" height="1" fill="#212121"/>
+
+  <!-- Snout -->
+  <rect x="12" y="5" width="3" height="2" fill="#FF7043"/>
+  <rect x="13" y="5" width="1" height="2" fill="#FFAB91"/>
+  <!-- Nostrils -->
+  <rect x="12" y="6" width="1" height="1" fill="#BF360C"/>
+  <rect x="14" y="6" width="1" height="1" fill="#BF360C"/>
+
+  <!-- Legs -->
+  <rect x="4" y="9" width="2" height="3" fill="#FF8A65"/>
+  <rect x="10" y="9" width="2" height="3" fill="#FF8A65"/>
+
+  <!-- Hooves -->
+  <rect x="4" y="11" width="2" height="1" fill="#5D4037"/>
+  <rect x="10" y="11" width="2" height="1" fill="#5D4037"/>
+
+  <!-- Curly tail -->
+  <rect x="1" y="5" width="2" height="1" fill="#FF8A65"/>
+  <rect x="0" y="4" width="1" height="2" fill="#FFAB91"/>
+  <rect x="0" y="3" width="2" height="1" fill="#FF8A65"/>
+</svg>

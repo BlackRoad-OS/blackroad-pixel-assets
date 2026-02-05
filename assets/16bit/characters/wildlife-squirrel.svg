@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" width="12" height="12" shape-rendering="crispEdges">
+  <!-- Squirrel - Peaceful wildlife -->
+
+  <!-- Body -->
+  <rect x="4" y="5" width="4" height="4" fill="#8D6E63"/>
+  <rect x="3" y="6" width="1" height="2" fill="#6D4C41"/>
+  <rect x="8" y="6" width="1" height="2" fill="#6D4C41"/>
+
+  <!-- Belly -->
+  <rect x="5" y="7" width="2" height="1" fill="#BCAAA4"/>
+
+  <!-- Head -->
+  <rect x="6" y="2" width="4" height="4" fill="#8D6E63"/>
+  <rect x="5" y="3" width="1" height="2" fill="#6D4C41"/>
+
+  <!-- Ears -->
+  <rect x="6" y="1" width="1" height="2" fill="#6D4C41"/>
+  <rect x="9" y="1" width="1" height="2" fill="#6D4C41"/>
+  <rect x="6" y="1" width="1" height="1" fill="#A1887F"/>
+
+  <!-- Eye -->
+  <rect x="8" y="3" width="1" height="1" fill="#212121"/>
+
+  <!-- Cheek -->
+  <rect x="7" y="4" width="2" height="1" fill="#BCAAA4"/>
+
+  <!-- Nose -->
+  <rect x="9" y="4" width="1" height="1" fill="#4E342E"/>
+
+  <!-- Arms (holding acorn) -->
+  <rect x="7" y="6" width="2" height="2" fill="#6D4C41"/>
+  <!-- Acorn! -->
+  <rect x="8" y="6" width="2" height="2" fill="#8D6E63"/>
+  <rect x="9" y="5" width="1" height="1" fill="#4E342E"/>
+  <rect x="9" y="6" width="1" height="1" fill="#A1887F"/>
+
+  <!-- Feet -->
+  <rect x="4" y="9" width="2" height="2" fill="#6D4C41"/>
+  <rect x="5" y="10" width="1" height="1" fill="#A1887F"/>
+
+  <!-- Big fluffy tail -->
+  <rect x="1" y="3" width="3" height="5" fill="#8D6E63"/>
+  <rect x="0" y="4" width="1" height="3" fill="#6D4C41"/>
+  <rect x="2" y="4" width="1" height="3" fill="#A1887F"/>
+  <rect x="1" y="2" width="2" height="2" fill="#A1887F"/>
+</svg>

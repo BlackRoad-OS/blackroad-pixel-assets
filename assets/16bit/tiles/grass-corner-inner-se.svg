@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Grass Tile - Inner Corner SE (small dirt corner at bottom-right) -->
+
+  <!-- Main grass base -->
+  <rect x="0" y="0" width="16" height="16" fill="#4CAF50"/>
+
+  <!-- Dirt corner (small, at bottom-right) -->
+  <rect x="12" y="12" width="4" height="4" fill="#8D6E63"/>
+  <rect x="14" y="14" width="2" height="2" fill="#795548"/>
+  <rect x="12" y="13" width="1" height="1" fill="#A1887F"/>
+
+  <!-- Curved transition -->
+  <rect x="10" y="12" width="2" height="4" fill="#6B8E4E"/>
+  <rect x="12" y="10" width="4" height="2" fill="#6B8E4E"/>
+  <rect x="10" y="10" width="2" height="2" fill="#689F38"/>
+
+  <!-- Grass details -->
+  <rect x="2" y="1" width="2" height="1" fill="#43A047"/>
+  <rect x="0" y="2" width="2" height="2" fill="#388E3C"/>
+  <rect x="5" y="4" width="3" height="2" fill="#43A047"/>
+  <rect x="14" y="0" width="2" height="2" fill="#388E3C"/>
+  <rect x="1" y="8" width="2" height="1" fill="#43A047"/>
+  <rect x="8" y="6" width="2" height="2" fill="#388E3C"/>
+  <rect x="4" y="12" width="2" height="2" fill="#43A047"/>
+  <rect x="0" y="14" width="2" height="2" fill="#388E3C"/>
+
+  <!-- Grass blades -->
+  <rect x="4" y="0" width="1" height="2" fill="#66BB6A"/>
+  <rect x="0" y="6" width="1" height="2" fill="#81C784"/>
+  <rect x="10" y="2" width="1" height="2" fill="#66BB6A"/>
+  <rect x="6" y="8" width="1" height="1" fill="#81C784"/>
+  <rect x="2" y="10" width="1" height="2" fill="#66BB6A"/>
+  <rect x="7" y="14" width="1" height="2" fill="#81C784"/>
+
+  <!-- Small flowers -->
+  <rect x="5" y="10" width="1" height="1" fill="#F5A623"/>
+  <rect x="12" y="2" width="1" height="1" fill="#FF1D6C"/>
+</svg>

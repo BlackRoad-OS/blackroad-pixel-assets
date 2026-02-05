@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Grass Tile - Edge North (dirt/path at top) -->
+
+  <!-- Dirt edge at top -->
+  <rect x="0" y="0" width="16" height="4" fill="#8D6E63"/>
+  <rect x="2" y="1" width="2" height="1" fill="#795548"/>
+  <rect x="8" y="0" width="2" height="1" fill="#A1887F"/>
+  <rect x="12" y="2" width="2" height="1" fill="#795548"/>
+
+  <!-- Transition zone -->
+  <rect x="0" y="4" width="16" height="2" fill="#6B8E4E"/>
+  <rect x="1" y="4" width="2" height="1" fill="#7CB342"/>
+  <rect x="6" y="4" width="1" height="1" fill="#558B2F"/>
+  <rect x="10" y="5" width="2" height="1" fill="#7CB342"/>
+  <rect x="14" y="4" width="1" height="1" fill="#689F38"/>
+
+  <!-- Main grass -->
+  <rect x="0" y="6" width="16" height="10" fill="#4CAF50"/>
+  <rect x="2" y="7" width="2" height="1" fill="#43A047"/>
+  <rect x="8" y="8" width="3" height="1" fill="#43A047"/>
+  <rect x="0" y="10" width="2" height="2" fill="#388E3C"/>
+  <rect x="5" y="11" width="2" height="1" fill="#43A047"/>
+  <rect x="12" y="9" width="2" height="2" fill="#388E3C"/>
+  <rect x="3" y="14" width="2" height="2" fill="#43A047"/>
+  <rect x="10" y="13" width="1" height="1" fill="#388E3C"/>
+
+  <!-- Grass blades -->
+  <rect x="4" y="6" width="1" height="2" fill="#66BB6A"/>
+  <rect x="11" y="7" width="1" height="2" fill="#81C784"/>
+  <rect x="1" y="12" width="1" height="2" fill="#66BB6A"/>
+  <rect x="7" y="10" width="1" height="1" fill="#81C784"/>
+  <rect x="14" y="12" width="1" height="2" fill="#66BB6A"/>
+</svg>

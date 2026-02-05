@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 16" width="20" height="16" shape-rendering="crispEdges">
+  <!-- Hay cart -->
+
+  <!-- Hay pile -->
+  <rect x="3" y="0" width="12" height="6" fill="#FDD835"/>
+  <rect x="2" y="2" width="14" height="4" fill="#FFEB3B"/>
+  <rect x="4" y="1" width="4" height="2" fill="#FFF59D"/>
+  <rect x="10" y="0" width="3" height="2" fill="#FFF59D"/>
+  <rect x="5" y="4" width="3" height="2" fill="#F9A825"/>
+  <rect x="11" y="3" width="2" height="2" fill="#F9A825"/>
+
+  <!-- Cart bed -->
+  <rect x="2" y="6" width="14" height="4" fill="#8D6E63"/>
+  <rect x="2" y="6" width="14" height="1" fill="#6D4C41"/>
+  <rect x="2" y="6" width="1" height="4" fill="#6D4C41"/>
+  <rect x="15" y="6" width="1" height="4" fill="#6D4C41"/>
+
+  <!-- Handle -->
+  <rect x="16" y="7" width="4" height="2" fill="#6D4C41"/>
+
+  <!-- Wheels -->
+  <rect x="3" y="10" width="4" height="4" fill="#5D4037"/>
+  <rect x="4" y="11" width="2" height="2" fill="#4E342E"/>
+  <rect x="11" y="10" width="4" height="4" fill="#5D4037"/>
+  <rect x="12" y="11" width="2" height="2" fill="#4E342E"/>
+
+  <!-- Axle -->
+  <rect x="5" y="10" width="8" height="1" fill="#424242"/>
+</svg>

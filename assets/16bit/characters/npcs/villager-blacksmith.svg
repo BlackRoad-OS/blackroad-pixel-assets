@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 18" width="14" height="18" shape-rendering="crispEdges">
+  <!-- Blacksmith - Strong build -->
+
+  <!-- Head -->
+  <rect x="4" y="0" width="6" height="6" fill="#FFCCBC"/>
+  <rect x="5" y="1" width="4" height="4" fill="#FFE0B2"/>
+
+  <!-- Face -->
+  <rect x="5" y="2" width="1" height="1" fill="#5D4037"/>
+  <rect x="8" y="2" width="1" height="1" fill="#5D4037"/>
+  <rect x="6" y="4" width="2" height="1" fill="#FFAB91"/>
+
+  <!-- Beard -->
+  <rect x="5" y="4" width="4" height="2" fill="#5D4037"/>
+  <rect x="4" y="5" width="1" height="1" fill="#4E342E"/>
+  <rect x="9" y="5" width="1" height="1" fill="#4E342E"/>
+
+  <!-- Body (muscular/wide) -->
+  <rect x="2" y="6" width="10" height="7" fill="#795548"/>
+  <rect x="3" y="7" width="8" height="5" fill="#8D6E63"/>
+
+  <!-- Leather apron -->
+  <rect x="4" y="8" width="6" height="5" fill="#5D4037"/>
+  <rect x="5" y="9" width="4" height="3" fill="#6D4C41"/>
+
+  <!-- Arms (bare, muscular) -->
+  <rect x="0" y="6" width="2" height="5" fill="#FFCCBC"/>
+  <rect x="12" y="6" width="2" height="5" fill="#FFCCBC"/>
+  <rect x="1" y="7" width="1" height="3" fill="#FFE0B2"/>
+  <rect x="12" y="7" width="1" height="3" fill="#FFE0B2"/>
+
+  <!-- Legs -->
+  <rect x="4" y="13" width="2" height="5" fill="#424242"/>
+  <rect x="8" y="13" width="2" height="5" fill="#424242"/>
+
+  <!-- Boots -->
+  <rect x="3" y="16" width="3" height="2" fill="#3E2723"/>
+  <rect x="8" y="16" width="3" height="2" fill="#3E2723"/>
+</svg>

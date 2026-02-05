@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 18" width="12" height="18" shape-rendering="crispEdges">
+  <!-- Fisher/Fisherman -->
+
+  <!-- Hat -->
+  <rect x="2" y="0" width="8" height="2" fill="#FFE082"/>
+  <rect x="3" y="0" width="6" height="1" fill="#FFCA28"/>
+  <rect x="1" y="2" width="10" height="1" fill="#FFA000"/>
+
+  <!-- Head -->
+  <rect x="3" y="2" width="6" height="5" fill="#FFCCBC"/>
+  <rect x="4" y="3" width="4" height="3" fill="#FFE0B2"/>
+
+  <!-- Face -->
+  <rect x="4" y="3" width="1" height="1" fill="#5D4037"/>
+  <rect x="7" y="3" width="1" height="1" fill="#5D4037"/>
+  <rect x="5" y="5" width="2" height="1" fill="#FFAB91"/>
+
+  <!-- Rain jacket -->
+  <rect x="2" y="7" width="8" height="6" fill="#FDD835"/>
+  <rect x="3" y="8" width="6" height="4" fill="#FFEB3B"/>
+
+  <!-- Jacket details -->
+  <rect x="5" y="7" width="2" height="6" fill="#F9A825"/>
+
+  <!-- Arms -->
+  <rect x="1" y="7" width="1" height="5" fill="#FDD835"/>
+  <rect x="10" y="7" width="1" height="5" fill="#FDD835"/>
+  <rect x="1" y="12" width="1" height="1" fill="#FFCCBC"/>
+  <rect x="10" y="12" width="1" height="1" fill="#FFCCBC"/>
+
+  <!-- Pants -->
+  <rect x="3" y="13" width="2" height="4" fill="#1565C0"/>
+  <rect x="7" y="13" width="2" height="4" fill="#1565C0"/>
+
+  <!-- Boots -->
+  <rect x="3" y="16" width="2" height="2" fill="#5D4037"/>
+  <rect x="7" y="16" width="2" height="2" fill="#5D4037"/>
+</svg>

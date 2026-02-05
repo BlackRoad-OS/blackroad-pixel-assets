@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 10" width="12" height="10" shape-rendering="crispEdges">
+  <!-- Tree stump -->
+
+  <!-- Top surface -->
+  <rect x="1" y="0" width="10" height="3" fill="#A1887F"/>
+  <rect x="2" y="1" width="8" height="1" fill="#BCAAA4"/>
+
+  <!-- Rings -->
+  <rect x="4" y="1" width="4" height="1" fill="#8D6E63"/>
+  <rect x="5" y="1" width="2" height="1" fill="#6D4C41"/>
+
+  <!-- Bark -->
+  <rect x="0" y="2" width="12" height="6" fill="#6D4C41"/>
+  <rect x="1" y="3" width="2" height="4" fill="#5D4037"/>
+  <rect x="9" y="3" width="2" height="4" fill="#5D4037"/>
+
+  <!-- Bark texture -->
+  <rect x="4" y="4" width="1" height="3" fill="#5D4037"/>
+  <rect x="7" y="3" width="1" height="4" fill="#5D4037"/>
+
+  <!-- Roots -->
+  <rect x="0" y="8" width="3" height="2" fill="#5D4037"/>
+  <rect x="9" y="8" width="3" height="2" fill="#5D4037"/>
+  <rect x="3" y="8" width="6" height="2" fill="#4E342E"/>
+
+  <!-- Mushrooms on stump -->
+  <rect x="10" y="5" width="2" height="1" fill="#FFAB91"/>
+  <rect x="10" y="4" width="2" height="1" fill="#FF7043"/>
+</svg>

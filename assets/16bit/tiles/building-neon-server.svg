@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" shape-rendering="crispEdges">
+  <!-- Server Building / Data Center -->
+
+  <!-- Foundation -->
+  <rect x="4" y="42" width="40" height="4" fill="#212121"/>
+  <rect x="4" y="46" width="40" height="2" fill="#1a1a1a"/>
+
+  <!-- Building (sleek, minimal) -->
+  <rect x="4" y="8" width="40" height="34" fill="#37474F"/>
+  <rect x="5" y="9" width="38" height="32" fill="#455A64"/>
+
+  <!-- Server status lights (grid pattern) -->
+  <!-- Row 1 -->
+  <rect x="8" y="12" width="2" height="2" fill="#4CAF50"/>
+  <rect x="12" y="12" width="2" height="2" fill="#4CAF50"/>
+  <rect x="16" y="12" width="2" height="2" fill="#4CAF50"/>
+  <rect x="20" y="12" width="2" height="2" fill="#F5A623"/>
+  <rect x="24" y="12" width="2" height="2" fill="#4CAF50"/>
+  <rect x="28" y="12" width="2" height="2" fill="#4CAF50"/>
+  <rect x="32" y="12" width="2" height="2" fill="#C62828"/>
+  <rect x="36" y="12" width="2" height="2" fill="#4CAF50"/>
+
+  <!-- Row 2 -->
+  <rect x="8" y="18" width="2" height="2" fill="#4CAF50"/>
+  <rect x="12" y="18" width="2" height="2" fill="#4CAF50"/>
+  <rect x="16" y="18" width="2" height="2" fill="#4CAF50"/>
+  <rect x="20" y="18" width="2" height="2" fill="#4CAF50"/>
+  <rect x="24" y="18" width="2" height="2" fill="#4CAF50"/>
+  <rect x="28" y="18" width="2" height="2" fill="#F5A623"/>
+  <rect x="32" y="18" width="2" height="2" fill="#4CAF50"/>
+  <rect x="36" y="18" width="2" height="2" fill="#4CAF50"/>
+
+  <!-- Row 3 -->
+  <rect x="8" y="24" width="2" height="2" fill="#4CAF50"/>
+  <rect x="12" y="24" width="2" height="2" fill="#C62828"/>
+  <rect x="16" y="24" width="2" height="2" fill="#4CAF50"/>
+  <rect x="20" y="24" width="2" height="2" fill="#4CAF50"/>
+  <rect x="24" y="24" width="2" height="2" fill="#4CAF50"/>
+  <rect x="28" y="24" width="2" height="2" fill="#4CAF50"/>
+  <rect x="32" y="24" width="2" height="2" fill="#4CAF50"/>
+  <rect x="36" y="24" width="2" height="2" fill="#4CAF50"/>
+
+  <!-- Vent panels -->
+  <rect x="6" y="30" width="36" height="8" fill="#37474F"/>
+  <rect x="8" y="31" width="32" height="1" fill="#546E7A"/>
+  <rect x="8" y="33" width="32" height="1" fill="#546E7A"/>
+  <rect x="8" y="35" width="32" height="1" fill="#546E7A"/>
+
+  <!-- Secure door -->
+  <rect x="18" y="32" width="12" height="10" fill="#263238"/>
+  <rect x="19" y="33" width="10" height="8" fill="#1a1a1a"/>
+  <!-- Keypad -->
+  <rect x="27" y="35" width="3" height="4" fill="#212121"/>
+  <rect x="28" y="36" width="1" height="1" fill="#C62828"/>
+  <rect x="28" y="38" width="1" height="1" fill="#4CAF50"/>
+
+  <!-- Company logo (neon) -->
+  <rect x="16" y="3" width="16" height="5" fill="#1a1a1a"/>
+  <rect x="18" y="4" width="12" height="3" fill="#2979FF"/>
+  <rect x="22" y="5" width="4" height="1" fill="#82B1FF"/>
+
+  <!-- Roof antennas -->
+  <rect x="6" y="0" width="2" height="9" fill="#757575"/>
+  <rect x="5" y="2" width="4" height="1" fill="#2979FF"/>
+  <rect x="40" y="0" width="2" height="9" fill="#757575"/>
+  <rect x="39" y="2" width="4" height="1" fill="#FF1D6C"/>
+
+  <!-- Side vents with blue glow -->
+  <rect x="4" y="12" width="2" height="24" fill="#0D47A1"/>
+  <rect x="4" y="14" width="2" height="2" fill="#2979FF"/>
+  <rect x="4" y="20" width="2" height="2" fill="#2979FF"/>
+  <rect x="4" y="26" width="2" height="2" fill="#2979FF"/>
+
+  <rect x="42" y="12" width="2" height="24" fill="#0D47A1"/>
+  <rect x="42" y="14" width="2" height="2" fill="#2979FF"/>
+  <rect x="42" y="20" width="2" height="2" fill="#2979FF"/>
+  <rect x="42" y="26" width="2" height="2" fill="#2979FF"/>
+</svg>

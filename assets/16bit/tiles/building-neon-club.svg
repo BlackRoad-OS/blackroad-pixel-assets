@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" shape-rendering="crispEdges">
+  <!-- Neon Nightclub -->
+
+  <!-- Foundation -->
+  <rect x="4" y="42" width="40" height="4" fill="#212121"/>
+  <rect x="4" y="46" width="40" height="2" fill="#1a1a1a"/>
+
+  <!-- Building (dark) -->
+  <rect x="4" y="12" width="40" height="30" fill="#1a1a1a"/>
+  <rect x="5" y="13" width="38" height="28" fill="#0d0d0d"/>
+
+  <!-- Pulsing neon border -->
+  <rect x="4" y="12" width="40" height="2" fill="#FF1D6C"/>
+  <rect x="4" y="12" width="2" height="30" fill="#FF1D6C"/>
+  <rect x="42" y="12" width="2" height="30" fill="#FF1D6C"/>
+
+  <!-- Main sign "CLUB" -->
+  <rect x="10" y="2" width="28" height="10" fill="#1a1a1a"/>
+  <rect x="11" y="3" width="26" height="8" fill="#0d0d0d"/>
+  <!-- Neon letters -->
+  <rect x="14" y="5" width="5" height="4" fill="#FF1D6C"/>
+  <rect x="20" y="5" width="5" height="4" fill="#9C27B0"/>
+  <rect x="26" y="5" width="5" height="4" fill="#2979FF"/>
+  <rect x="32" y="5" width="5" height="4" fill="#FF1D6C"/>
+  <!-- Sign glow -->
+  <rect x="10" y="2" width="28" height="1" fill="#FF1D6C"/>
+  <rect x="10" y="11" width="28" height="1" fill="#9C27B0"/>
+
+  <!-- VIP entrance -->
+  <rect x="16" y="28" width="16" height="14" fill="#4A148C"/>
+  <rect x="17" y="29" width="14" height="12" fill="#7B1FA2"/>
+  <rect x="18" y="30" width="6" height="11" fill="#1a1a1a"/>
+  <rect x="24" y="30" width="6" height="11" fill="#0d0d0d"/>
+  <!-- Velvet rope posts -->
+  <rect x="14" y="36" width="2" height="6" fill="#F5A623"/>
+  <rect x="32" y="36" width="2" height="6" fill="#F5A623"/>
+  <rect x="16" y="38" width="16" height="1" fill="#C62828"/>
+
+  <!-- Bouncer area -->
+  <rect x="8" y="34" width="6" height="8" fill="#212121"/>
+  <rect x="34" y="34" width="6" height="8" fill="#212121"/>
+
+  <!-- Laser light windows -->
+  <rect x="8" y="16" width="10" height="8" fill="#0D47A1"/>
+  <!-- Laser beams -->
+  <rect x="9" y="17" width="1" height="6" fill="#2979FF"/>
+  <rect x="11" y="18" width="1" height="5" fill="#FF1D6C"/>
+  <rect x="13" y="17" width="1" height="6" fill="#9C27B0"/>
+  <rect x="15" y="18" width="1" height="5" fill="#4CAF50"/>
+
+  <rect x="30" y="16" width="10" height="8" fill="#0D47A1"/>
+  <rect x="31" y="17" width="1" height="6" fill="#9C27B0"/>
+  <rect x="33" y="18" width="1" height="5" fill="#2979FF"/>
+  <rect x="35" y="17" width="1" height="6" fill="#FF1D6C"/>
+  <rect x="37" y="18" width="1" height="5" fill="#F5A623"/>
+
+  <!-- DJ booth window -->
+  <rect x="18" y="16" width="12" height="8" fill="#4A148C"/>
+  <rect x="19" y="17" width="10" height="6" fill="#7B1FA2"/>
+  <!-- DJ silhouette -->
+  <rect x="22" y="18" width="4" height="4" fill="#1a1a1a"/>
+  <rect x="23" y="17" width="2" height="1" fill="#1a1a1a"/>
+
+  <!-- Strobe lights on roof -->
+  <rect x="4" y="0" width="40" height="3" fill="#263238"/>
+  <rect x="8" y="1" width="3" height="1" fill="#FFFFFF"/>
+  <rect x="18" y="1" width="3" height="1" fill="#FF1D6C"/>
+  <rect x="28" y="1" width="3" height="1" fill="#2979FF"/>
+  <rect x="38" y="1" width="3" height="1" fill="#FFFFFF"/>
+
+  <!-- Side speakers -->
+  <rect x="6" y="26" width="4" height="6" fill="#212121"/>
+  <rect x="7" y="27" width="2" height="4" fill="#1a1a1a"/>
+  <rect x="38" y="26" width="4" height="6" fill="#212121"/>
+  <rect x="39" y="27" width="2" height="4" fill="#1a1a1a"/>
+</svg>

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 40" width="48" height="40" shape-rendering="crispEdges">
+  <!-- Hover Vehicle Garage -->
+
+  <!-- Foundation -->
+  <rect x="4" y="34" width="40" height="4" fill="#212121"/>
+  <rect x="4" y="38" width="40" height="2" fill="#1a1a1a"/>
+
+  <!-- Main structure -->
+  <rect x="4" y="10" width="40" height="24" fill="#37474F"/>
+  <rect x="5" y="11" width="38" height="22" fill="#455A64"/>
+
+  <!-- Roof (angled) -->
+  <rect x="2" y="6" width="44" height="5" fill="#263238"/>
+  <rect x="4" y="4" width="40" height="2" fill="#37474F"/>
+  <rect x="8" y="2" width="32" height="2" fill="#263238"/>
+
+  <!-- Large garage door -->
+  <rect x="8" y="16" width="32" height="18" fill="#263238"/>
+  <rect x="9" y="17" width="30" height="16" fill="#1a1a1a"/>
+
+  <!-- Door panels -->
+  <rect x="10" y="18" width="28" height="3" fill="#212121"/>
+  <rect x="10" y="22" width="28" height="3" fill="#263238"/>
+  <rect x="10" y="26" width="28" height="3" fill="#212121"/>
+  <rect x="10" y="30" width="28" height="3" fill="#263238"/>
+
+  <!-- Window strips on door -->
+  <rect x="12" y="18" width="4" height="2" fill="#0D47A1"/>
+  <rect x="18" y="18" width="4" height="2" fill="#0D47A1"/>
+  <rect x="24" y="18" width="4" height="2" fill="#0D47A1"/>
+  <rect x="30" y="18" width="4" height="2" fill="#0D47A1"/>
+
+  <!-- Hover vehicle visible inside -->
+  <rect x="14" y="26" width="20" height="6" fill="#546E7A"/>
+  <rect x="16" y="25" width="16" height="2" fill="#78909C"/>
+  <!-- Windshield -->
+  <rect x="18" y="26" width="8" height="3" fill="#64B5F6"/>
+  <rect x="19" y="27" width="3" height="1" fill="#BBDEFB"/>
+  <!-- Hover glow -->
+  <rect x="16" y="32" width="16" height="1" fill="#2979FF"/>
+
+  <!-- Side windows -->
+  <rect x="5" y="12" width="4" height="4" fill="#0D47A1"/>
+  <rect x="6" y="13" width="2" height="2" fill="#1976D2"/>
+
+  <rect x="39" y="12" width="4" height="4" fill="#0D47A1"/>
+  <rect x="40" y="13" width="2" height="2" fill="#1976D2"/>
+
+  <!-- Sign -->
+  <rect x="16" y="6" width="16" height="4" fill="#1a1a1a"/>
+  <rect x="17" y="7" width="14" height="2" fill="#2979FF"/>
+  <!-- "GARAGE" text hint -->
+  <rect x="19" y="7" width="2" height="1" fill="#64B5F6"/>
+  <rect x="23" y="7" width="2" height="1" fill="#64B5F6"/>
+  <rect x="27" y="7" width="2" height="1" fill="#64B5F6"/>
+
+  <!-- Neon trim -->
+  <rect x="4" y="10" width="40" height="1" fill="#FF1D6C"/>
+  <rect x="4" y="10" width="1" height="24" fill="#FF1D6C"/>
+  <rect x="43" y="10" width="1" height="24" fill="#FF1D6C"/>
+
+  <!-- Tool/equipment area -->
+  <rect x="5" y="28" width="3" height="6" fill="#263238"/>
+  <rect x="40" y="28" width="3" height="6" fill="#263238"/>
+
+  <!-- Status lights -->
+  <rect x="6" y="18" width="2" height="2" fill="#4CAF50"/>
+  <rect x="40" y="18" width="2" height="2" fill="#4CAF50"/>
+
+  <!-- Roof equipment -->
+  <rect x="36" y="0" width="6" height="4" fill="#455A64"/>
+  <rect x="37" y="1" width="4" height="2" fill="#37474F"/>
+</svg>

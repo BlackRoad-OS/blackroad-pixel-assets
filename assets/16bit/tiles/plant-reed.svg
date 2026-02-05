@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Reeds/Cattails (water plants) -->
+
+  <!-- Stems -->
+  <rect x="3" y="6" width="1" height="10" fill="#7CB342"/>
+  <rect x="6" y="4" width="1" height="12" fill="#8BC34A"/>
+  <rect x="9" y="5" width="1" height="11" fill="#7CB342"/>
+  <rect x="12" y="7" width="1" height="9" fill="#8BC34A"/>
+
+  <!-- Cattail heads -->
+  <rect x="3" y="3" width="1" height="3" fill="#5D4037"/>
+  <rect x="6" y="1" width="1" height="3" fill="#6D4C41"/>
+  <rect x="9" y="2" width="1" height="3" fill="#5D4037"/>
+  <rect x="12" y="4" width="1" height="3" fill="#6D4C41"/>
+
+  <!-- Head highlights -->
+  <rect x="6" y="1" width="1" height="1" fill="#8D6E63"/>
+  <rect x="9" y="2" width="1" height="1" fill="#8D6E63"/>
+
+  <!-- Leaf accents -->
+  <rect x="4" y="8" width="1" height="1" fill="#9CCC65"/>
+  <rect x="5" y="10" width="1" height="2" fill="#AED581"/>
+  <rect x="7" y="7" width="1" height="1" fill="#9CCC65"/>
+  <rect x="10" y="9" width="1" height="2" fill="#AED581"/>
+  <rect x="11" y="11" width="1" height="1" fill="#9CCC65"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Fallen Log -->
+
+  <!-- Main log body -->
+  <rect x="1" y="9" width="14" height="4" fill="#6D4C41"/>
+  <rect x="2" y="8" width="12" height="1" fill="#8D6E63"/>
+  <rect x="2" y="13" width="12" height="1" fill="#4E342E"/>
+
+  <!-- End caps (visible wood grain) -->
+  <rect x="0" y="9" width="2" height="4" fill="#8D6E63"/>
+  <rect x="0" y="10" width="1" height="2" fill="#A1887F"/>
+  <rect x="14" y="9" width="2" height="4" fill="#5D4037"/>
+
+  <!-- Bark texture lines -->
+  <rect x="3" y="10" width="1" height="2" fill="#5D4037"/>
+  <rect x="6" y="9" width="1" height="3" fill="#5D4037"/>
+  <rect x="9" y="10" width="1" height="2" fill="#5D4037"/>
+  <rect x="12" y="9" width="1" height="3" fill="#4E342E"/>
+
+  <!-- Moss patches -->
+  <rect x="4" y="8" width="2" height="1" fill="#43A047"/>
+  <rect x="5" y="9" width="1" height="1" fill="#388E3C"/>
+  <rect x="10" y="8" width="2" height="1" fill="#43A047"/>
+
+  <!-- Ground shadow -->
+  <rect x="2" y="14" width="12" height="1" fill="#3E2723"/>
+
+  <!-- Small mushrooms on log -->
+  <rect x="7" y="7" width="1" height="1" fill="#BCAAA4"/>
+  <rect x="7" y="8" width="1" height="1" fill="#8D6E63"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Lily Pad with Flower -->
+
+  <!-- Water background hints -->
+  <rect x="1" y="12" width="2" height="1" fill="#1565C0"/>
+  <rect x="13" y="11" width="2" height="1" fill="#1976D2"/>
+
+  <!-- Main lily pad -->
+  <rect x="3" y="8" width="10" height="6" fill="#388E3C"/>
+  <rect x="4" y="7" width="8" height="1" fill="#43A047"/>
+  <rect x="5" y="6" width="6" height="1" fill="#4CAF50"/>
+  <rect x="2" y="9" width="1" height="4" fill="#2E7D32"/>
+  <rect x="13" y="9" width="1" height="4" fill="#2E7D32"/>
+  <rect x="3" y="14" width="10" height="1" fill="#1B5E20"/>
+
+  <!-- Pad notch (V cut) -->
+  <rect x="7" y="11" width="2" height="3" fill="#1976D2"/>
+  <rect x="8" y="10" width="1" height="1" fill="#1565C0"/>
+
+  <!-- Veins on pad -->
+  <rect x="5" y="9" width="1" height="3" fill="#2E7D32"/>
+  <rect x="10" y="9" width="1" height="3" fill="#2E7D32"/>
+  <rect x="6" y="8" width="4" height="1" fill="#4CAF50"/>
+
+  <!-- Water lily flower -->
+  <rect x="9" y="3" width="3" height="3" fill="#FFFFFF"/>
+  <rect x="10" y="2" width="1" height="1" fill="#F5F5F5"/>
+  <rect x="8" y="4" width="1" height="1" fill="#FAFAFA"/>
+  <rect x="12" y="4" width="1" height="1" fill="#E0E0E0"/>
+  <rect x="10" y="4" width="1" height="1" fill="#FFEB3B"/>
+
+  <!-- Pink water lily variant petal hints -->
+  <rect x="9" y="5" width="1" height="1" fill="#F8BBD9"/>
+  <rect x="11" y="3" width="1" height="1" fill="#FCE4EC"/>
+</svg>

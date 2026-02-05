@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Waterfall (Frame 1 of animated) -->
+
+  <!-- Rock wall/cliff -->
+  <rect x="0" y="0" width="4" height="16" fill="#616161"/>
+  <rect x="12" y="0" width="4" height="16" fill="#616161"/>
+  <rect x="0" y="0" width="3" height="16" fill="#757575"/>
+  <rect x="13" y="0" width="3" height="16" fill="#424242"/>
+
+  <!-- Rock texture -->
+  <rect x="1" y="2" width="1" height="2" fill="#546E7A"/>
+  <rect x="2" y="6" width="1" height="1" fill="#546E7A"/>
+  <rect x="1" y="10" width="1" height="2" fill="#546E7A"/>
+  <rect x="13" y="3" width="1" height="2" fill="#37474F"/>
+  <rect x="14" y="8" width="1" height="2" fill="#37474F"/>
+
+  <!-- Waterfall stream -->
+  <rect x="4" y="0" width="8" height="12" fill="#42A5F5"/>
+  <rect x="5" y="0" width="2" height="12" fill="#64B5F6"/>
+  <rect x="9" y="0" width="2" height="12" fill="#1E88E5"/>
+
+  <!-- Falling water streaks -->
+  <rect x="6" y="1" width="1" height="3" fill="#90CAF9"/>
+  <rect x="8" y="4" width="1" height="3" fill="#BBDEFB"/>
+  <rect x="5" y="7" width="1" height="2" fill="#BBDEFB"/>
+  <rect x="10" y="2" width="1" height="2" fill="#90CAF9"/>
+  <rect x="7" y="9" width="1" height="2" fill="#90CAF9"/>
+
+  <!-- Splash pool at bottom -->
+  <rect x="3" y="12" width="10" height="4" fill="#1976D2"/>
+  <rect x="4" y="12" width="8" height="1" fill="#42A5F5"/>
+
+  <!-- Splash foam -->
+  <rect x="5" y="12" width="2" height="1" fill="#E3F2FD"/>
+  <rect x="9" y="12" width="2" height="1" fill="#BBDEFB"/>
+  <rect x="6" y="13" width="1" height="1" fill="#E3F2FD"/>
+  <rect x="8" y="13" width="1" height="1" fill="#BBDEFB"/>
+
+  <!-- Mist particles -->
+  <rect x="4" y="11" width="1" height="1" fill="#E3F2FD"/>
+  <rect x="11" y="11" width="1" height="1" fill="#BBDEFB"/>
+
+  <!-- Moss on rocks -->
+  <rect x="3" y="8" width="1" height="2" fill="#388E3C"/>
+  <rect x="12" y="6" width="1" height="2" fill="#2E7D32"/>
+</svg>

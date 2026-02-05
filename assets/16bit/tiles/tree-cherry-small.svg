@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 32" width="16" height="32" shape-rendering="crispEdges">
+  <!-- Cherry Blossom Tree - Small (16x32) -->
+
+  <!-- Canopy -->
+  <rect x="4" y="0" width="8" height="2" fill="#F48FB1"/>
+  <rect x="2" y="2" width="12" height="2" fill="#F06292"/>
+  <rect x="1" y="4" width="14" height="4" fill="#EC407A"/>
+  <rect x="0" y="8" width="16" height="4" fill="#F48FB1"/>
+  <rect x="1" y="12" width="14" height="3" fill="#F06292"/>
+  <rect x="2" y="15" width="12" height="2" fill="#EC407A"/>
+
+  <!-- Flower clusters (lighter pink) -->
+  <rect x="5" y="1" width="2" height="1" fill="#FCE4EC"/>
+  <rect x="3" y="4" width="2" height="2" fill="#F8BBD9"/>
+  <rect x="10" y="3" width="3" height="2" fill="#FCE4EC"/>
+  <rect x="2" y="8" width="2" height="2" fill="#F8BBD9"/>
+  <rect x="7" y="6" width="3" height="2" fill="#FCE4EC"/>
+  <rect x="12" y="9" width="2" height="2" fill="#F8BBD9"/>
+  <rect x="4" y="12" width="2" height="1" fill="#FCE4EC"/>
+  <rect x="9" y="11" width="2" height="2" fill="#F8BBD9"/>
+
+  <!-- Shadows (deeper pink) -->
+  <rect x="8" y="5" width="3" height="2" fill="#AD1457"/>
+  <rect x="1" y="10" width="2" height="2" fill="#C2185B"/>
+  <rect x="11" y="13" width="2" height="2" fill="#AD1457"/>
+
+  <!-- Falling petals -->
+  <rect x="0" y="17" width="1" height="1" fill="#F8BBD9"/>
+  <rect x="14" y="19" width="1" height="1" fill="#FCE4EC"/>
+  <rect x="3" y="22" width="1" height="1" fill="#F8BBD9"/>
+  <rect x="12" y="25" width="1" height="1" fill="#FCE4EC"/>
+
+  <!-- Trunk (darker, more refined) -->
+  <rect x="6" y="17" width="4" height="12" fill="#4E342E"/>
+  <rect x="7" y="17" width="2" height="12" fill="#5D4037"/>
+
+  <!-- Trunk details -->
+  <rect x="6" y="19" width="1" height="2" fill="#3E2723"/>
+  <rect x="9" y="22" width="1" height="3" fill="#3E2723"/>
+  <rect x="8" y="18" width="1" height="3" fill="#6D4C41"/>
+
+  <!-- Base -->
+  <rect x="5" y="29" width="6" height="1" fill="#4E342E"/>
+  <rect x="4" y="30" width="8" height="1" fill="#3E2723"/>
+  <rect x="3" y="31" width="10" height="1" fill="#3E2723"/>
+</svg>

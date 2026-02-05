@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" shape-rendering="crispEdges">
+  <!-- Coin Icon (Small) -->
+
+  <!-- Outer ring -->
+  <rect x="4" y="2" width="8" height="12" fill="#C68A00"/>
+  <rect x="3" y="4" width="1" height="8" fill="#8B5A00"/>
+  <rect x="12" y="4" width="1" height="8" fill="#8B5A00"/>
+  <rect x="2" y="6" width="1" height="4" fill="#8B5A00"/>
+  <rect x="13" y="6" width="1" height="4" fill="#8B5A00"/>
+
+  <!-- Face -->
+  <rect x="4" y="3" width="8" height="10" fill="#F5A623"/>
+  <rect x="5" y="4" width="6" height="8" fill="#FFCA28"/>
+
+  <!-- Symbol -->
+  <rect x="6" y="5" width="4" height="6" fill="#C68A00"/>
+  <rect x="7" y="6" width="2" height="4" fill="#8B5A00"/>
+
+  <!-- Shine -->
+  <rect x="5" y="4" width="2" height="2" fill="#FFEB3B"/>
+  <rect x="5" y="4" width="1" height="1" fill="#FFF59D"/>
+</svg>

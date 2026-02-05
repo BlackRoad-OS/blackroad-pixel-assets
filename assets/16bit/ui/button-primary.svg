@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 16" width="48" height="16" shape-rendering="crispEdges">
+  <!-- Primary Button - Normal state -->
+
+  <!-- Shadow -->
+  <rect x="2" y="2" width="44" height="14" fill="#0D47A1"/>
+
+  <!-- Border -->
+  <rect x="0" y="0" width="48" height="14" fill="#1565C0"/>
+
+  <!-- Background -->
+  <rect x="2" y="2" width="44" height="10" fill="#1976D2"/>
+
+  <!-- Highlight (top edge) -->
+  <rect x="2" y="2" width="44" height="2" fill="#2196F3"/>
+
+  <!-- Inner shadow (bottom) -->
+  <rect x="2" y="10" width="44" height="2" fill="#1565C0"/>
+
+  <!-- Corners -->
+  <rect x="0" y="0" width="2" height="2" fill="#0D47A1"/>
+  <rect x="46" y="0" width="2" height="2" fill="#0D47A1"/>
+  <rect x="0" y="12" width="2" height="2" fill="#0D47A1"/>
+  <rect x="46" y="12" width="2" height="2" fill="#0D47A1"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 16" width="48" height="16" shape-rendering="crispEdges">
+  <!-- Danger Button - Normal state -->
+
+  <!-- Shadow -->
+  <rect x="2" y="2" width="44" height="14" fill="#7B1FA2"/>
+
+  <!-- Border -->
+  <rect x="0" y="0" width="48" height="14" fill="#B71C1C"/>
+
+  <!-- Background -->
+  <rect x="2" y="2" width="44" height="10" fill="#C62828"/>
+
+  <!-- Highlight (top edge) -->
+  <rect x="2" y="2" width="44" height="2" fill="#D32F2F"/>
+
+  <!-- Inner shadow (bottom) -->
+  <rect x="2" y="10" width="44" height="2" fill="#B71C1C"/>
+
+  <!-- Corners -->
+  <rect x="0" y="0" width="2" height="2" fill="#7B1FA2"/>
+  <rect x="46" y="0" width="2" height="2" fill="#7B1FA2"/>
+  <rect x="0" y="12" width="2" height="2" fill="#7B1FA2"/>
+  <rect x="46" y="12" width="2" height="2" fill="#7B1FA2"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 14" width="8" height="14" shape-rendering="crispEdges">
+  <!-- Eggplant / Aubergine -->
+
+  <!-- Stem -->
+  <rect x="3" y="0" width="2" height="2" fill="#4CAF50"/>
+  <rect x="2" y="1" width="1" height="1" fill="#388E3C"/>
+  <rect x="5" y="1" width="1" height="1" fill="#388E3C"/>
+
+  <!-- Body -->
+  <rect x="2" y="2" width="4" height="4" fill="#7B1FA2"/>
+  <rect x="1" y="4" width="6" height="6" fill="#7B1FA2"/>
+  <rect x="2" y="10" width="4" height="3" fill="#6A1B9A"/>
+  <rect x="3" y="13" width="2" height="1" fill="#4A148C"/>
+
+  <!-- Highlight -->
+  <rect x="2" y="3" width="1" height="2" fill="#9C27B0"/>
+  <rect x="2" y="5" width="2" height="3" fill="#9C27B0"/>
+  <rect x="2" y="6" width="1" height="1" fill="#BA68C8"/>
+
+  <!-- Shadow -->
+  <rect x="5" y="6" width="1" height="4" fill="#6A1B9A"/>
+</svg>

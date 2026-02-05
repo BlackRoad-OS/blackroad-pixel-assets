@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 12" width="8" height="12" shape-rendering="crispEdges">
+  <!-- Radish - Red and white -->
+
+  <!-- Leaves -->
+  <rect x="3" y="0" width="2" height="3" fill="#4CAF50"/>
+  <rect x="2" y="1" width="1" height="2" fill="#388E3C"/>
+  <rect x="5" y="1" width="1" height="2" fill="#388E3C"/>
+  <rect x="1" y="2" width="1" height="1" fill="#2E7D32"/>
+  <rect x="6" y="2" width="1" height="1" fill="#2E7D32"/>
+
+  <!-- Body - red top -->
+  <rect x="2" y="3" width="4" height="4" fill="#E53935"/>
+  <rect x="1" y="4" width="1" height="2" fill="#C62828"/>
+  <rect x="6" y="4" width="1" height="2" fill="#C62828"/>
+
+  <!-- Highlight -->
+  <rect x="2" y="4" width="1" height="2" fill="#EF5350"/>
+
+  <!-- White bottom -->
+  <rect x="2" y="7" width="4" height="2" fill="#FFFFFF"/>
+  <rect x="3" y="9" width="2" height="2" fill="#ECEFF1"/>
+  <rect x="3" y="11" width="1" height="1" fill="#CFD8DC"/>
+</svg>

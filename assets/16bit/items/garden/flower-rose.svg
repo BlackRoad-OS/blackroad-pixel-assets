@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 14" width="10" height="14" shape-rendering="crispEdges">
+  <!-- Rose - Red romantic flower -->
+
+  <!-- Petals - outer -->
+  <rect x="2" y="1" width="6" height="5" fill="#E53935"/>
+  <rect x="1" y="2" width="1" height="3" fill="#C62828"/>
+  <rect x="8" y="2" width="1" height="3" fill="#C62828"/>
+  <rect x="3" y="0" width="4" height="1" fill="#EF5350"/>
+
+  <!-- Petals - middle -->
+  <rect x="3" y="2" width="4" height="3" fill="#EF5350"/>
+
+  <!-- Petals - center spiral -->
+  <rect x="4" y="2" width="2" height="2" fill="#F44336"/>
+  <rect x="5" y="3" width="1" height="1" fill="#B71C1C"/>
+
+  <!-- Leaves at base -->
+  <rect x="1" y="5" width="3" height="2" fill="#388E3C"/>
+  <rect x="6" y="5" width="3" height="2" fill="#388E3C"/>
+  <rect x="0" y="5" width="1" height="1" fill="#2E7D32"/>
+  <rect x="9" y="5" width="1" height="1" fill="#2E7D32"/>
+
+  <!-- Stem -->
+  <rect x="4" y="7" width="2" height="7" fill="#4CAF50"/>
+  <rect x="4" y="8" width="1" height="5" fill="#388E3C"/>
+
+  <!-- Leaf on stem -->
+  <rect x="6" y="9" width="2" height="2" fill="#4CAF50"/>
+  <rect x="7" y="10" width="1" height="1" fill="#388E3C"/>
+</svg>

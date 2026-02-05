@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 16" width="6" height="16" shape-rendering="crispEdges">
+  <!-- Lavender - Purple fragrant sprig -->
+
+  <!-- Flower buds -->
+  <rect x="2" y="0" width="2" height="1" fill="#9C27B0"/>
+  <rect x="1" y="1" width="4" height="1" fill="#AB47BC"/>
+  <rect x="1" y="2" width="4" height="1" fill="#9C27B0"/>
+  <rect x="1" y="3" width="4" height="1" fill="#BA68C8"/>
+  <rect x="2" y="4" width="2" height="1" fill="#9C27B0"/>
+  <rect x="1" y="5" width="4" height="1" fill="#AB47BC"/>
+  <rect x="2" y="6" width="2" height="1" fill="#9C27B0"/>
+
+  <!-- Stem -->
+  <rect x="2" y="7" width="2" height="9" fill="#4CAF50"/>
+  <rect x="2" y="8" width="1" height="7" fill="#388E3C"/>
+
+  <!-- Small leaves -->
+  <rect x="0" y="9" width="2" height="1" fill="#66BB6A"/>
+  <rect x="4" y="11" width="2" height="1" fill="#66BB6A"/>
+  <rect x="0" y="13" width="2" height="1" fill="#66BB6A"/>
+</svg>

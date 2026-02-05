@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 14" width="24" height="14" shape-rendering="crispEdges">
+  <!-- Dining table -->
+
+  <!-- Table top -->
+  <rect x="0" y="0" width="24" height="4" fill="#8D6E63"/>
+  <rect x="1" y="0" width="22" height="1" fill="#A1887F"/>
+  <rect x="1" y="1" width="22" height="2" fill="#795548"/>
+  <rect x="2" y="2" width="20" height="1" fill="#6D4C41"/>
+
+  <!-- Apron -->
+  <rect x="2" y="4" width="20" height="2" fill="#6D4C41"/>
+
+  <!-- Legs -->
+  <rect x="2" y="6" width="2" height="8" fill="#5D4037"/>
+  <rect x="2" y="6" width="1" height="8" fill="#6D4C41"/>
+  <rect x="20" y="6" width="2" height="8" fill="#5D4037"/>
+  <rect x="20" y="6" width="1" height="8" fill="#6D4C41"/>
+
+  <!-- Stretcher -->
+  <rect x="4" y="10" width="16" height="1" fill="#4E342E"/>
+</svg>

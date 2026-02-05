@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 12" width="16" height="12" shape-rendering="crispEdges">
+  <!-- Round area rug -->
+
+  <!-- Outer ring -->
+  <rect x="2" y="0" width="12" height="12" fill="#7B1FA2"/>
+  <rect x="0" y="2" width="2" height="8" fill="#7B1FA2"/>
+  <rect x="14" y="2" width="2" height="8" fill="#7B1FA2"/>
+
+  <!-- Middle ring -->
+  <rect x="3" y="1" width="10" height="10" fill="#9C27B0"/>
+  <rect x="1" y="3" width="2" height="6" fill="#9C27B0"/>
+  <rect x="13" y="3" width="2" height="6" fill="#9C27B0"/>
+
+  <!-- Inner ring -->
+  <rect x="4" y="2" width="8" height="8" fill="#AB47BC"/>
+  <rect x="2" y="4" width="2" height="4" fill="#AB47BC"/>
+  <rect x="12" y="4" width="2" height="4" fill="#AB47BC"/>
+
+  <!-- Center -->
+  <rect x="5" y="3" width="6" height="6" fill="#CE93D8"/>
+  <rect x="3" y="5" width="2" height="2" fill="#CE93D8"/>
+  <rect x="11" y="5" width="2" height="2" fill="#CE93D8"/>
+
+  <!-- Core -->
+  <rect x="6" y="4" width="4" height="4" fill="#E1BEE7"/>
+  <rect x="7" y="5" width="2" height="2" fill="#F3E5F5"/>
+</svg>

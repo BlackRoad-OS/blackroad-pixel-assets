@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 18" width="16" height="18" shape-rendering="crispEdges">
+  <!-- Kitchen stove -->
+
+  <!-- Top surface -->
+  <rect x="0" y="0" width="16" height="6" fill="#424242"/>
+  <rect x="1" y="1" width="14" height="4" fill="#616161"/>
+
+  <!-- Burners -->
+  <rect x="2" y="1" width="4" height="4" fill="#212121"/>
+  <rect x="3" y="2" width="2" height="2" fill="#424242"/>
+  <rect x="10" y="1" width="4" height="4" fill="#212121"/>
+  <rect x="11" y="2" width="2" height="2" fill="#424242"/>
+
+  <!-- Oven body -->
+  <rect x="0" y="6" width="16" height="12" fill="#ECEFF1"/>
+
+  <!-- Oven window -->
+  <rect x="2" y="8" width="12" height="6" fill="#37474F"/>
+  <rect x="3" y="9" width="10" height="4" fill="#263238"/>
+  <!-- Glow inside -->
+  <rect x="4" y="10" width="8" height="2" fill="#FF5722"/>
+
+  <!-- Handle -->
+  <rect x="6" y="14" width="4" height="1" fill="#9E9E9E"/>
+
+  <!-- Controls -->
+  <rect x="13" y="7" width="2" height="2" fill="#757575"/>
+  <rect x="13" y="10" width="2" height="2" fill="#757575"/>
+  <rect x="13" y="13" width="2" height="2" fill="#757575"/>
+
+  <!-- Base -->
+  <rect x="0" y="17" width="16" height="1" fill="#9E9E9E"/>
+</svg>

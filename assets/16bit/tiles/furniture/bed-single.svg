@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 18" width="14" height="18" shape-rendering="crispEdges">
+  <!-- Single bed -->
+
+  <!-- Headboard -->
+  <rect x="0" y="0" width="14" height="5" fill="#8D6E63"/>
+  <rect x="1" y="1" width="12" height="3" fill="#795548"/>
+
+  <!-- Mattress -->
+  <rect x="1" y="5" width="12" height="9" fill="#FFFFFF"/>
+  <rect x="2" y="6" width="10" height="7" fill="#F5F5F5"/>
+
+  <!-- Pillow -->
+  <rect x="3" y="5" width="8" height="3" fill="#ECEFF1"/>
+  <rect x="4" y="6" width="6" height="1" fill="#FFFFFF"/>
+
+  <!-- Blanket -->
+  <rect x="2" y="8" width="10" height="6" fill="#E91E63"/>
+  <rect x="3" y="9" width="8" height="4" fill="#F06292"/>
+  <rect x="4" y="10" width="6" height="2" fill="#F8BBD9"/>
+
+  <!-- Footboard -->
+  <rect x="0" y="14" width="14" height="4" fill="#8D6E63"/>
+  <rect x="1" y="15" width="12" height="2" fill="#6D4C41"/>
+
+  <!-- Posts -->
+  <rect x="0" y="0" width="2" height="18" fill="#5D4037"/>
+  <rect x="12" y="0" width="2" height="18" fill="#5D4037"/>
+</svg>

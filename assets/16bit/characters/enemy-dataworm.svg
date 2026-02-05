@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 12" width="24" height="12" shape-rendering="crispEdges">
+  <!-- Data Worm (Digital serpent) -->
+
+  <!-- Segments (alternating colors) -->
+  <rect x="18" y="4" width="4" height="4" fill="#2979FF"/>
+  <rect x="19" y="5" width="2" height="2" fill="#64B5F6"/>
+  <rect x="21" y="3" width="2" height="1" fill="#1565C0"/>
+  <rect x="21" y="8" width="2" height="1" fill="#1565C0"/>
+
+  <rect x="14" y="5" width="4" height="4" fill="#9C27B0"/>
+  <rect x="15" y="6" width="2" height="2" fill="#CE93D8"/>
+  <rect x="14" y="4" width="4" height="1" fill="#7B1FA2"/>
+
+  <rect x="10" y="4" width="4" height="4" fill="#2979FF"/>
+  <rect x="11" y="5" width="2" height="2" fill="#64B5F6"/>
+  <rect x="10" y="3" width="4" height="1" fill="#1565C0"/>
+
+  <rect x="6" y="5" width="4" height="4" fill="#9C27B0"/>
+  <rect x="7" y="6" width="2" height="2" fill="#CE93D8"/>
+  <rect x="6" y="4" width="4" height="1" fill="#7B1FA2"/>
+
+  <!-- Head -->
+  <rect x="0" y="3" width="6" height="6" fill="#FF1D6C"/>
+  <rect x="1" y="4" width="4" height="4" fill="#FF6B9D"/>
+
+  <!-- Eyes -->
+  <rect x="1" y="4" width="2" height="2" fill="#FFFFFF"/>
+  <rect x="1" y="5" width="1" height="1" fill="#1a1a1a"/>
+  <rect x="3" y="4" width="2" height="2" fill="#FFFFFF"/>
+  <rect x="4" y="5" width="1" height="1" fill="#1a1a1a"/>
+
+  <!-- Fangs/mouth -->
+  <rect x="0" y="7" width="1" height="2" fill="#FFFFFF"/>
+  <rect x="2" y="8" width="1" height="1" fill="#FFFFFF"/>
+
+  <!-- Digital trail -->
+  <rect x="22" y="5" width="1" height="2" fill="#1565C0"/>
+  <rect x="23" y="5" width="1" height="1" fill="#0D47A1"/>
+
+  <!-- Glitch effects -->
+  <rect x="12" y="2" width="1" height="1" fill="#FF1D6C"/>
+  <rect x="8" y="9" width="1" height="1" fill="#2979FF"/>
+  <rect x="16" y="9" width="1" height="1" fill="#4CAF50"/>
+
+  <!-- Circuit pattern on body -->
+  <rect x="11" y="6" width="1" height="1" fill="#1565C0"/>
+  <rect x="15" y="7" width="1" height="1" fill="#4A148C"/>
+  <rect x="19" y="6" width="1" height="1" fill="#1565C0"/>
+</svg>

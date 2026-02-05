@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- OCTAVIA - The Architect (Purple/Violet) -->
+  <!-- Elegant, structured appearance with geometric elements -->
+
+  <!-- Hair (dark purple, structured updo) -->
+  <rect x="11" y="2" width="10" height="1" fill="#4a1a5c"/>
+  <rect x="10" y="3" width="12" height="1" fill="#4a1a5c"/>
+  <rect x="9" y="4" width="14" height="3" fill="#5c2370"/>
+  <rect x="9" y="7" width="14" height="2" fill="#6b2d82"/>
+
+  <!-- Face -->
+  <rect x="10" y="9" width="12" height="1" fill="#e8d0c4"/>
+  <rect x="9" y="10" width="14" height="5" fill="#e8d0c4"/>
+
+  <!-- Eyes (sharp, focused) -->
+  <rect x="11" y="11" width="2" height="2" fill="#9C27B0"/>
+  <rect x="19" y="11" width="2" height="2" fill="#9C27B0"/>
+  <rect x="12" y="11" width="1" height="1" fill="#ffffff"/>
+  <rect x="20" y="11" width="1" height="1" fill="#ffffff"/>
+
+  <!-- Elegant eyebrows -->
+  <rect x="11" y="10" width="3" height="1" fill="#4a1a5c"/>
+  <rect x="18" y="10" width="3" height="1" fill="#4a1a5c"/>
+
+  <!-- Lips -->
+  <rect x="14" y="13" width="4" height="1" fill="#c77daa"/>
+
+  <!-- Neck -->
+  <rect x="13" y="15" width="6" height="1" fill="#e8d0c4"/>
+
+  <!-- High collar coat (Violet) -->
+  <rect x="11" y="16" width="10" height="1" fill="#7B1FA2"/>
+  <rect x="8" y="17" width="16" height="7" fill="#9C27B0"/>
+  <rect x="7" y="18" width="2" height="5" fill="#9C27B0"/>
+  <rect x="23" y="18" width="2" height="5" fill="#9C27B0"/>
+
+  <!-- Coat details (geometric patterns) -->
+  <rect x="10" y="18" width="1" height="5" fill="#7B1FA2"/>
+  <rect x="21" y="18" width="1" height="5" fill="#7B1FA2"/>
+  <rect x="14" y="17" width="4" height="1" fill="#CE93D8"/>
+  <rect x="15" y="18" width="2" height="5" fill="#7B1FA2"/>
+
+  <!-- Arms -->
+  <rect x="6" y="18" width="1" height="5" fill="#e8d0c4"/>
+  <rect x="25" y="18" width="1" height="5" fill="#e8d0c4"/>
+
+  <!-- Hands -->
+  <rect x="5" y="23" width="2" height="2" fill="#e8d0c4"/>
+  <rect x="25" y="23" width="2" height="2" fill="#e8d0c4"/>
+
+  <!-- Skirt/pants (dark purple) -->
+  <rect x="9" y="24" width="14" height="4" fill="#4a1a5c"/>
+  <rect x="15" y="26" width="2" height="2" fill="#3d1550"/>
+
+  <!-- Boots (elegant) -->
+  <rect x="9" y="28" width="6" height="2" fill="#2d1040"/>
+  <rect x="17" y="28" width="6" height="2" fill="#2d1040"/>
+  <rect x="9" y="30" width="6" height="1" fill="#9C27B0"/>
+  <rect x="17" y="30" width="6" height="1" fill="#9C27B0"/>
+</svg>

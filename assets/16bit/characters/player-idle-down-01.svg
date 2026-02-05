@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- 16-bit Player Character - Idle Down Frame 1 -->
+  <!-- BlackRoad Metaverse - 32x32 pixels -->
+
+  <!-- Hair (dark) -->
+  <rect x="12" y="4" width="8" height="1" fill="#2a1810"/>
+  <rect x="10" y="5" width="12" height="1" fill="#2a1810"/>
+  <rect x="9" y="6" width="14" height="1" fill="#2a1810"/>
+  <rect x="9" y="7" width="14" height="2" fill="#3d2817"/>
+
+  <!-- Face -->
+  <rect x="10" y="9" width="12" height="1" fill="#f5d0a9"/>
+  <rect x="9" y="10" width="14" height="5" fill="#f5d0a9"/>
+
+  <!-- Eyes -->
+  <rect x="11" y="11" width="2" height="2" fill="#1a1a2e"/>
+  <rect x="19" y="11" width="2" height="2" fill="#1a1a2e"/>
+  <rect x="11" y="11" width="1" height="1" fill="#ffffff"/>
+  <rect x="19" y="11" width="1" height="1" fill="#ffffff"/>
+
+  <!-- Mouth -->
+  <rect x="14" y="13" width="4" height="1" fill="#c9a07a"/>
+
+  <!-- Neck -->
+  <rect x="13" y="15" width="6" height="1" fill="#f5d0a9"/>
+
+  <!-- Shirt (BlackRoad Amber) -->
+  <rect x="8" y="16" width="16" height="1" fill="#F5A623"/>
+  <rect x="7" y="17" width="18" height="6" fill="#F5A623"/>
+  <rect x="6" y="18" width="2" height="4" fill="#F5A623"/>
+  <rect x="24" y="18" width="2" height="4" fill="#F5A623"/>
+
+  <!-- Shirt detail -->
+  <rect x="14" y="17" width="4" height="1" fill="#d4900f"/>
+  <rect x="13" y="18" width="6" height="4" fill="#d4900f"/>
+
+  <!-- Arms -->
+  <rect x="5" y="18" width="1" height="5" fill="#f5d0a9"/>
+  <rect x="26" y="18" width="1" height="5" fill="#f5d0a9"/>
+
+  <!-- Hands -->
+  <rect x="5" y="23" width="2" height="2" fill="#f5d0a9"/>
+  <rect x="25" y="23" width="2" height="2" fill="#f5d0a9"/>
+
+  <!-- Pants (dark) -->
+  <rect x="9" y="23" width="14" height="4" fill="#1a1a2e"/>
+  <rect x="9" y="27" width="6" height="1" fill="#1a1a2e"/>
+  <rect x="17" y="27" width="6" height="1" fill="#1a1a2e"/>
+
+  <!-- Legs gap -->
+  <rect x="15" y="25" width="2" height="3" fill="#141428"/>
+
+  <!-- Shoes -->
+  <rect x="8" y="28" width="7" height="2" fill="#4a3728"/>
+  <rect x="17" y="28" width="7" height="2" fill="#4a3728"/>
+  <rect x="8" y="30" width="7" height="1" fill="#3d2817"/>
+  <rect x="17" y="30" width="7" height="1" fill="#3d2817"/>
+</svg>

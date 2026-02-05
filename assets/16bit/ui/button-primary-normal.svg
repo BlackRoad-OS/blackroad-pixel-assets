@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 16" width="48" height="16" shape-rendering="crispEdges">
+  <!-- Primary Button - Normal State (Amber) -->
+
+  <!-- Shadow -->
+  <rect x="2" y="14" width="44" height="2" fill="#000000" opacity="0.3"/>
+
+  <!-- Button body -->
+  <rect x="1" y="1" width="46" height="13" fill="#F5A623"/>
+
+  <!-- Top highlight -->
+  <rect x="2" y="2" width="44" height="2" fill="#FFCA62"/>
+
+  <!-- Bottom shadow -->
+  <rect x="2" y="11" width="44" height="2" fill="#D4900F"/>
+
+  <!-- Left edge highlight -->
+  <rect x="2" y="4" width="1" height="7" fill="#FFCA62"/>
+
+  <!-- Right edge shadow -->
+  <rect x="45" y="4" width="1" height="7" fill="#D4900F"/>
+
+  <!-- Border -->
+  <rect x="0" y="0" width="48" height="1" fill="#1a1a1a"/>
+  <rect x="0" y="14" width="48" height="1" fill="#1a1a1a"/>
+  <rect x="0" y="0" width="1" height="15" fill="#1a1a1a"/>
+  <rect x="47" y="0" width="1" height="15" fill="#1a1a1a"/>
+
+  <!-- Corner pixels -->
+  <rect x="1" y="1" width="1" height="1" fill="#1a1a1a"/>
+  <rect x="46" y="1" width="1" height="1" fill="#1a1a1a"/>
+  <rect x="1" y="13" width="1" height="1" fill="#1a1a1a"/>
+  <rect x="46" y="13" width="1" height="1" fill="#1a1a1a"/>
+</svg>
